@@ -1,0 +1,33 @@
+site_name: DCI 102 Data in the Humanities
+
+theme: 
+  name:  
+  custom_dir: mkdocs_gitbook/
+
+nav:
+  - Schedule: schedule.md
+  - Grading: grading.md
+  - Unit 0 / Setup:
+      - Activities: /Unit0/activities.md
+      - Command Line: /Unit0/commandline.md
+      - Environment: /Unit0/environment.md
+      - HTML + CSS: /Unit0/html-css.md
+      - Reclaim Hosting: /Unit0/reclaimmd.md
+  - Unit 1 / Text:
+      - Activities: Unit1/unit1_activities.md
+      - Assignments: Unit1/unit1_assignments.md
+      - Data: Unit1/unit1_data.md
+      - Methodology: Unit1/unit1_methodology.md
+  - Unit 2 / Networks:
+      - Activities: Unit2/unit2_activities.md
+      - Assignments: Unit2/unit2_assignments.md
+      - Data: Unit2/unit2_data.md
+      - Methodology: Unit2/unit2_methodology.md
+  - Unit 3 / Maps:
+      - Activities: Unit3/unit3_activities.md
+      - Assignments: Unit3/unit3_assignments.md
+      - Data: Unit3/unit3_data.md
+      - Methodology: Unit3/unit3_methodology.md
+
+plugins: 
+  - search
