@@ -6,24 +6,33 @@ Fall 2019 // TR 2:45-4:45pm // CGL 114
 
 # Contact
 
-Mackenzie Brooks, Assistant Professor & Digital Humanities Librarian
+Mackenzie Brooks, Associate Professor & Digital Humanities Librarian
 
 brooksm@wlu.edu // 540-458-8659 // Leyburn 218
 
 Office hours: Wednesdays, 10-12pm; Thursday 1-2pm. 
 
+DCI Peer Mentor: Jenna Marvet '21
+
 # Course description
 
-This course introduces students to the creation and visualization of data in humanities research. The course is predicated on the fact that the digital turn of the last several decades has drastically changed the nature of knowledge production and distribution. The community and set of practices that is Digital Humanities \(DH\) encourages fluency in media beyond the printed word such as text mining, digital curation, data visualization, and spatial analysis. Readings and discussions of theory will complement hands-on application of digital methods and computational thinking. While the objects of our study will primarily come from the humanities, the methods of analysis are widely applicable to the social and natural sciences. Three unit-long collaborative projects will explore the creation, structure, and visualization of “humanities data.” This course meets in two-hour blocks to accommodate a lab component.
+This course introduces students to the creation, use, and visualization of data in humanities-based research. The course is predicated on the fact that the digital turn of the last several decades has drastically changed the nature of knowledge production and distribution. In the 21st century, we must develop fluencies in media beyond the printed word such as text mining, network analysis, data visualization, and spatial analysis. Readings and discussions of theory from the field and set of practices that is Digital Humanities (DH) will complement hands-on application of digital methods and computational thinking. While the objects of our study will primarily come from the humanities, the methods of analysis are widely applicable to the social and natural sciences. Three unit-long collaborative projects will explore the creation, structure, and visualization of “humanities data.” This course meets in two-hour blocks to accommodate a lab component.
 
 # Course objectives
 
-* Ability to understand, analyze, and use data.
-* Ability to integrate digitally driven research goals, methods, and media with discipline-specific inquiry.
-* Develop critical savvy for assessing sources and data.
-* Ability to use design critically.
-* Ability to assess information and information technologies critically.
-* Ability to work collaboratively.
+* Recognize and assess data-driven digital projects.
+* Integrate research goals and digital methods with discipline-specific inquiry. 
+* Develop skills necessary to create, structure, clean, manipulate, and visualize data. 
+* Engage in collaborative, interdisciplinary, project-based learning.
+* Create professional website to document and present unit assignments. 
+
+# DCI Learning Outcomes
+1. Develop critical capacities for analyzing the role of technology and digital media in contemporary culture, and apply those capacities to a range of disciplinary and interdisciplinary inquiries.
+2. Develop the technical skills necessary for academic and professional success, with an emphasis on online communication and information.
+3. Demonstrate the ability to communicate across different media and to both academic and general audiences.
+4. Engage in collaborative, interdisciplinary, project-based learning.
+5. Develop digital projects that contribute to the scholarly conversation in the student's field of study and demonstrate an awareness of the technological and critical needs of the discipline.
+6. Develop an online professional identity and a portfolio of work in the minor.
 
 # Course protocols
 
@@ -47,9 +56,9 @@ You will be provided with a domain from [Reclaim Hosting](https://reclaimhosting
 
 # Course structure
 
-We will meet in two-hour blocks to accommodate the lecture and lab components of the course. An extended class period ensures that we have sufficient time to explore and master the technical aspects of the course.
+We will meet in two-hour blocks to accommodate the lecture and lab components of the course. An extended class period ensures that we have sufficient time to explore and master the technical aspects of the course. We will take regular breaks 
 
-This course will be conducted in three units. We will complete the first unit together as a class. In the second and third units, students will work on different sets of data. Each unit will follow a similar project development cycle. By the third unit, lab time will be less structured and students will be expected to work relatively independently.
+This course will be conducted in three units. Each unit will follow a similar project development cycle. We will complete the first unit together as a class. In the second and third units, students will work on different sets of data.  By the third unit, lab time will be less structured and students will be expected to work relatively independently.
 
 ## Unit 1: Text
 

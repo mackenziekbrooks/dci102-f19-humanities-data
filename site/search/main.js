@@ -56,7 +56,7 @@ function doSearch () {
 }
 
 function initSearch () {
-  var search_input = document.getElementById('mkdocs-search-query');
+  var search_input = document.getElementById('book-search-input');
   if (search_input) {
     search_input.addEventListener("keyup", doSearch);
   }

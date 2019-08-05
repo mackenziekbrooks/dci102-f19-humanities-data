@@ -105,6 +105,7 @@
 </div> <!-- end of book-body -->
 
 {%- block scripts %}
+<script>var base_url = "{{base_url}}";</script>
 <script src="{{ base_url }}/js/main.js"></script>
 {%- for path in extra_javascript %}
 <script src="{{ path }}"></script>
