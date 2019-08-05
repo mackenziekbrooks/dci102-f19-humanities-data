@@ -36,7 +36,7 @@
 {%- block search_button %}
 {%- if 'search' in config['plugins'] %}
 <div id="book-search-input" role="search">
-<input type="text" placeholder="Type to search" />
+<input id="mkdocs-search-query" type="text" placeholder="Type to search" />
 </div> <!-- end of book-search-input -->
 {%- endif %}
 {%- endblock %}
@@ -65,7 +65,7 @@
 <div class="page-inner">
 
 {%- if 'search' in config['plugins'] %}
-<div id="book-search-results">
+<div id="mkdocs-search-results">
 <div class="search-noresults">
 {%- endif %}
 

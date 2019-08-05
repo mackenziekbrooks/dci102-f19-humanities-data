@@ -34,3 +34,6 @@ nav:
       - Assignments: Unit3/unit3_assignments.md
       - Data: Unit3/unit3_data.md
       - Methodology: Unit3/unit3_methodology.md
+
+plugins:
+  - search
