@@ -42,7 +42,7 @@ function displayResults (results) {
 }
 
 function doSearch () {
-  var query = document.getElementById('mkdocs-search-input').value;
+  var query = document.getElementById('mkdocs-search-query').value;
   if (query.length > 2) {
     if (!window.Worker) {
       displayResults(search(query));
@@ -56,7 +56,7 @@ function doSearch () {
 }
 
 function initSearch () {
-  var search_input = document.getElementById('mkdocs-search-input');
+  var search_input = document.getElementById('mkdocs-search-query');
   if (search_input) {
     search_input.addEventListener("keyup", doSearch);
   }

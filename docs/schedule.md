@@ -2,14 +2,14 @@
 
 # Unit 1 / Text
 
-### Thursday, 9/6/18
+### Thursday, 9/5/19
 
 * Introductions and course overview
-* Getting to know you [survey](https://docs.google.com/forms/d/e/1FAIpQLSezew0M6oMR-EkWEqyyxWdc-VHycLu3PutC1leBuNRh2uD2ng/viewform?usp=sf_link)
+* Getting to know you [survey](https://forms.gle/vmZq8TmVPZBN5zUb7)
 * Lecture: what is data in the humanities?
-* Lab: [environment](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/Unit 0/Unit 0 /environment.html) setup
-* Lab: domain setup with [Reclaim Hosting](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/Unit 0/Unit 0/reclaimmd.md)
-* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dci102-f18-day1.html)
+* Lab: Environment setup
+* Lab: domain setup with Reclaim Hosting
+* [Slides]()
 
 **Read for Tuesday:**
 
@@ -18,7 +18,7 @@
 * [What is Data?](http://schoolofdata.org/handbook/courses/what-is-data/) \(if this link doesn't work, [try this one](http://web.archive.org/web/20161205121253/http://schoolofdata.org:80/handbook/courses/what-is-data/)\)
 * [Defining Data for Humanists: Text, Artifact, Information or Evidence?](http://journalofdigitalhumanities.org/1-1/defining-data-for-humanists-by-trevor-owens/)
 
-### Tuesday, 9/11/18
+### Tuesday, 9/10/19
 
 * Kellie Harra to share [Rewriting the Code](http://rewritingthecode.wludci.info/)
 * Discussion: readings
@@ -35,7 +35,7 @@
 * Review [Introduction to Windows Command Line with Powershell](https://programminghistorian.org/lessons/intro-to-powershell) \(Windows people\)
 * Review [Introduction to the Bash Command Line](http://programminghistorian.org/lessons/intro-to-bash) \(Mac people\)
 
-### Thursday, 9/13/18
+### Thursday, 9/12/19
 
 * Readings discussion
 * Lab: HTML/CSS cont.
@@ -47,7 +47,7 @@
 * [Intro to Text Analysis workbook](http://walshbr.com/textanalysiscoursebook/) by Profs. Brandon Walsh and Sarah Horowitz
   * read the Intro, Issues in Text Analysis, and Close Reading.
 
-### Tuesday, 9/18/18
+### Tuesday, 9/17/19
 
 _Methodology review_
 
@@ -63,7 +63,7 @@ _Methodology review_
 
 * Unit 1 Methodology Review
 
-### Thursday, 9/20/18
+### Thursday, 9/19/19
 
 _Methodology review_  
 _Data introduction_
@@ -79,7 +79,7 @@ _Data introduction_
 * [Cleaning OCR'd text with regular expressions](http://programminghistorian.org/lessons/cleaning-ocrd-text-with-regular-expressions)
 * [How Computers Read Texts](http://walshbr.com/textanalysiscoursebook/book/cyborg-readers/computer-reading/) + [Distant Reading](http://walshbr.com/textanalysiscoursebook/book/reading-at-scale/distant-reading/) + [Problems with Data](http://walshbr.com/textanalysiscoursebook/book/data-cleaning/problems-with-data/) from Text Analysis Coursebook
 
-### Tuesday, 9/25/18
+### Tuesday, 9/24/19
 
 _Data cleanup_
 
@@ -96,7 +96,7 @@ _Data cleanup_
 * Read: [Argument Clinic](http://scottbot.net/argument-clinic/)
 * Look over: [Lexos Manual](http://scalar.usc.edu/works/lexos/manual)
 
-### Thursday, 9/27/18
+### Thursday, 9/26/19
 
 _Data clean up + project work_
 
@@ -112,7 +112,7 @@ _Data clean up + project work_
 
 * Research Question
 
-### Tuesday, 10/2/18
+### Tuesday, 10/1/19
 
 _Data viz + project work_
 
@@ -124,18 +124,18 @@ _Data viz + project work_
 
 * [A Beginner's Guide to Writing Documentation](http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
 
-### Thursday, 10/4/18
+### Thursday, 10/3/19
 
 _Project work + documentation_
 
 * Lab: documentation
 * [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dci102-f18-day9.html)
 
-**All Unit 1 assignments due 10/9/18 by 2:45pm**
+**All Unit 1 assignments due 10/9/19 by 2:45pm**
 
 ## Unit 2 Network
 
-### Tuesday, 10/9/18
+### Tuesday, 10/8/19
 
 _Methodology review_
 
@@ -150,11 +150,11 @@ _Methodology review_
 
 ** Due Tuesday the 16th: methodology review **
 
-### Thursday, 10/11/18
+### Thursday, 10/10/19
 
 No class, reading days
 
-### Tuesday, 10/16/18
+### Tuesday, 10/15/19
 
 _Methodology review_
 
@@ -167,7 +167,7 @@ _Methodology review_
 * [An Entry of One’s Own, or Why Are There So Few Women In the Early Modern Social Network?](http://6dfb.tumblr.com/post/44879380376/an-entry-of-ones-own-or-why-are-there-so-few)
 
 
-### Thursday, 10/18/18
+### Thursday, 10/17/19
 * Critical DH discussion?
 * Data set introduction
 * Visit to Special Collections?
@@ -180,7 +180,7 @@ _Methodology review_
 * Review this Programming Historian Lesson: "[Using SPARQL to access Linked Open Data](http://programminghistorian.org/lessons/graph-databases-and-SPARQL)" and "[Cleaning Data with Open Refine](http://programminghistorian.org/lessons/cleaning-data-with-openrefine)"
 
 
-### Tuesday, 10/23/18
+### Tuesday, 10/22/19
 _Data structures_  
 _Data cleanup_
 
@@ -191,7 +191,7 @@ _Data cleanup_
 
 **Attend "How Big Data Increases Inequality and Destroys Democracy" Cathy O'Neil: 10/24 at 5:30 PM in Northen and write a blog post for participation point** 
 
-### Thursday, 10/25/18
+### Thursday, 10/24/19
  
 _Network analysis tools_
 
@@ -206,7 +206,7 @@ _Network analysis tools_
 
 **Due Tuesday: Research question**
 
-### Tuesday, 10/30/18
+### Tuesday, 10/29/19
 
 _Project work_
 
@@ -214,7 +214,7 @@ _Project work_
 
 **Prepare 1-2 network visualizations and 1 piece of documentation for peer review on Thursday**
 
-### Thursday, 11/1/18
+### Thursday, 10/31/19
 
 _Project work + Documentation_
 
@@ -225,7 +225,7 @@ _Project work + Documentation_
 
 ## Unit 3 Space
 
-### Tuesday, 11/6/18
+### Tuesday, 11/5/19
 
 _Methodology review_
 
@@ -240,7 +240,7 @@ _Methodology review_
 * [What is the Spatial Turn?](http://spatial.scholarslab.org/spatial-turn/what-is-the-spatial-turn/)
 
 
-### Thursday, 11/8/183
+### Thursday, 11/7/193
 
 _Methodology review_
 
@@ -253,7 +253,7 @@ _Methodology review_
 
 **Unit 3 Methodology Review due Tuesday, 11/13**
 
-### Tuesday, 11/13/18
+### Tuesday, 11/12/19
 
 _Methodology review + Data_
 
@@ -265,7 +265,7 @@ _Methodology review + Data_
 **Read for Thursday:**
 * [Anatomy of a web map](http://maptime.io/anatomy-of-a-web-map/)
 
-### Thursday, 11/15/18
+### Thursday, 11/14/19
 
 _Methodology review + Data_
 
@@ -275,20 +275,20 @@ _Methodology review + Data_
 
 
 ** Read for Tuesday:**
-* [We Mapped It So You Don't Have To](http://crln.acrl.org/index.php/crlnews/article/view/16772/18314)
+* [We Mapped It So You Don't Have To](http://crln.acrl.org/index.php/crlnews/article/view/16772/19314)
 
 ** Research question due Tuesday the 27th**
 
-### Thanksgiving break
 
-### Tuesday, 11/27/18
+
+### Tuesday, 11/19/19
 
 _Methodology review + Data_
 
 * Activity 3: Mapping tools sandbox
 * Data set/project approval and consults 
 
-### Thursday, 11/29/18
+### Thursday, 11/21/19
 
 _project work_
 
@@ -296,20 +296,22 @@ _project work_
 
 **For Tuesday: Prepare for peer review by embedding your map onto your website and posting your project narrative.**
 
-### Tuesday, 12/4/18
+### Thanksgiving break
+
+### Tuesday, 12/3/19
 
 _project work + peer review_
 
 * Activity 4
 * course evals
 
-### Thursday, 12/6/18
+### Thursday, 12/5/19
 
 _wrap up_
 
 * Unit 3 presentations 
 
-**Unit 3 assignments due 12/6/18 at 2:45pm**
+**Unit 3 assignments due 12/6/19 at 2:45pm**
 
 ### Finals week
 

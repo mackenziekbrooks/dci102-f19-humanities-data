@@ -2,13 +2,13 @@
 
 ### Methodology Review
 
-To familiarize ourselves with the various methodologies in the DH world, let's conduct a review of one text analysis project. You may select from the list below or find a project of your choosing \(subject to professor approval\), as long as it uses textual data as its source. Be prepared to share your review in class. **Due September 20, 2018 at 2:45pm.** 
+To familiarize ourselves with the various methodologies in the DH world, let's conduct a review of one text analysis project. You may select from the list below or find a project of your choosing \(subject to professor approval\), as long as it uses textual data as its source. Be prepared to share your review in class. **Due September 19, 2019 at 2:45pm.** 
 
 * 1 point for assignment delivery: 
-  * on time
-  * 300-600 words
-  * Appropriate file name (no spaces, includes your last name and the date).
-  * Saved to your Box folder (DCI102-username).
+	* on time
+	* 400-600 words
+	* Appropriate file name (no spaces, includes your last name and the date).
+	* Submit in Canvas.
 * 1 point for absence of major typos, grammatical errors, and unclear writing.
 * 1 point for summarizing the following:
 	* What is the goal of this project? Are there guiding research questions?
@@ -47,14 +47,14 @@ One of the first steps in your project should be to identify your research quest
 
 For example, as a librarian, I might be curious about mentions of the library in the Ring-tum Phi. What role does the library play in students' lives and how has that changed over time? Is the library mentioned more around exam time? Does the library get featured by the RTP, or just casually mentioned as a physical space on campus? How did the new library building change the tone or narrative of the library at W&L? 
 
-**Due October 2, 2018 at 2:45pm **
+**Due October 1, 2019 at 2:45pm**
 
 Specs:
 
 * 1 point for assignment delivery
 	* on time
-	* 200-300 words
-	* publish on your website 
+	* 300-400 words
+	* publish on your website, submit URL in Canvas.
 * 1 point for listing 2-3 potential research questions + intro to project.
 * 1 point for research questions that are scaled and scoped to the data set at hand.
 * 1 point for providing contextual details about the data set. Save the technical details for the project documentation assignment.
@@ -65,7 +65,7 @@ Specs:
 
 At the beginning of each unit, you will be handed a messy data set. It is a rare thing to find a perfectly structured and organized set of data in the wild. A major component of your work during each unit will involve turning this data into something usable for visualization or other types of analysis. "Usable," of course, depends on the nature of your project. Ideally, a clean and well-structured data set can serve a variety of uses AND live beyond specific tools or visualization trends. For Unit 1, you'll need tokenized 
 
-** Due Tuesday, October 9, 2018 at 2:45pm** 
+**Due Tuesday, October 8, 2019 at 2:45pm** 
 
 Specs:
 * 1 point for assignment delivery
@@ -84,7 +84,7 @@ Specs:
 
 Now that you have some experience creating a usable data set - what can you do with it? What are the results of your research questions? From the tools we have experimented with in class, select your favorite and/or most meaningful visualizations. This can be a graph, a word cloud, a topic model etc. You can even generate data in one program, then visualize in another. Next, interpret this visualization. Use "[Using Data Visualization to Find Insights in Data](http://datajournalismhandbook.org/1.0/en/understanding_data_7.html)" to guide your writing. 
 
-** Due Tuesday, October 9 at 2:45pm.**
+**Due Tuesday, October 8, at 2:45pm.**
 
 Specs:
 * 1 point for assignment delivery: 
@@ -107,7 +107,7 @@ Resources on visualization:
 
 As you have reviewed projects and experimented with various tools, you have found yourself relying on their documentation. Documentation is super important, but it doesn't always get the attention it deserves. Documenting your process, your project, and everything in between helps yourself and others. There are many different forms of documentation, but for this assignment, I'm asking you to document the process by which you achieved your results. This could be how you cleaned your data with Regex or how to import and visualize your data in a text analysis tool. Your professor is not your audience. Imagine a friend or family member trying to recreate what you have done in this unit using your documentation.
 
-**Due October 9, at 2:45pm**
+**Due October 8, at 2:45pm**
 
 Specs:
 * 1 point for on time delivery
@@ -124,7 +124,7 @@ Check out [A Beginner's Guide to Writing Documentation](http://www.writethedocs.
 
 The final assignment for this unit a piece of reflective writing. Talk about your feelings. What have you learned? What has been challenging? How has your relationship with technology changed? What would you have done differently? What new strategies will you try in the next unit?
 
-**Due Tuesday, October 9, at 2:45pm.** 
+**Due Tuesday, October 8, at 2:45pm.** 
 
 Specs:
 * 1 point for assignment delivery:
@@ -151,7 +151,7 @@ You are free to choose the topic of your blog posts, as long as there is a conne
 
 Specs:
 
-* Up to 2 blog posts due Tuesday, October 9, 2018 at 2:45pm. \(I recommend spacing them out!\)
+* Up to 2 blog posts due Tuesday, October 8, 2019 at 2:45pm. \(I recommend spacing them out!\)
 * Publish to your own domain. 
 * 300-500 words per post.
 * Link to outside articles and embed images \(with citations!\), if relevant.
