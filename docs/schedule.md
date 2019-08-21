@@ -1,6 +1,6 @@
 # Schedule
 
-# Unit 1 / Text
+## Unit 1 / Text
 
 ### Thursday, 9/5/19
 
@@ -20,7 +20,6 @@
 
 ### Tuesday, 9/10/19
 
-* Kellie Harra to share [Rewriting the Code](http://rewritingthecode.wludci.info/)
 * Discussion: readings
 * Lecture: How the internet works
 * Lab: CPanel

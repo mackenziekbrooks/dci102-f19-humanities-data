@@ -48,18 +48,18 @@ Resources on evaluating digital projects:
 
 One of the first steps in your project should be to identify your research question(s). WHat questions do you want to ask of this data? What is your angle? What topics are you interested in? It's important to form a question that you think could be answered by the data we have in the time we have available. It's okay to start small.
 
-**Due October 30, 2018 at 2:45pm **
+**Due October 30, 2018 at 2:45pm** 
 
 Specs:
 
 * 1 point for assignment delivery
 	* on time
-	* 200-300 words
-	* publish on your website
-* 1 point for listing 2-3 potential research questions.
-* 1 point for research questions that are scaled and scoped to the data set at hand.
-* 1 point for providing contextual details about the data set. Save the technical details for the project documentation assignment.
+	* 300-400 words
+	* publish on your website, submit URL in Canvas.
+* 1 point for introducing your project: What's the topic? What's the context? What's interesting? What is this data about? (Save technical details for later.)
+* 1 point for listing 2-3 research questions that are scaled and scoped to the data set at hand.
 * 1 point for identifying your disciplinary angle. Are you approaching this project as a historian, a literature person, someone else entirely? Who is your audience?
+* 1 point for including 1-2 scholarly sources that bolster your research question. How does your topic and disciplinary angle fit into the existing scholarly conversation? 
 
 ### Project data
 

@@ -42,22 +42,18 @@ Projects:
 ### Research Question
 Because we are short on time, you're not being expected to design and implement a full-scale data-driven project. This assignment asks you to use your imagination about what this project could become. Now that you're familiar with the data, what paths would you like to pursue? How would you introduce this data set to the uninitiated? Think about the "About" pages we've seen during your Methodology Review assignment. 
 
-****Due Tuesday 11/27/18 by 2:45pm**
+**Due Tuesday 11/27/18 by 2:45pm**
 
 Specs:
 
 * 1 point for assignment delivery
     * on time
-    * 200-300 words
-    * publish on your website
-* 1 point for listing 2-3 potential research questions.
-* 1 point for research questions that are scaled and scoped to the data set you intend to use or create.
-* 1 point for providing contextual details about the data set. Save the technical details for the project documentation assignment.
+    * 300-400 words
+    * publish on your website, submit URL in Canvas.
+* 1 point for introducing your project: What's the topic? What's the context? What's interesting? What is this data about? (Save technical details for later.)
+* 1 point for listing 2-3 research questions that are scaled and scoped to the data set at hand.
 * 1 point for identifying your disciplinary angle. Are you approaching this project as a historian, a literature person, someone else entirely? Who is your audience?
-
-
-
-
+* 1 point for including 1-2 scholarly sources that bolster your research question. How does your topic and disciplinary angle fit into the existing scholarly conversation? 
 
 ### Project data
 

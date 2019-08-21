@@ -55,10 +55,10 @@ Specs:
 	* on time
 	* 300-400 words
 	* publish on your website, submit URL in Canvas.
-* 1 point for listing 2-3 potential research questions + intro to project.
-* 1 point for research questions that are scaled and scoped to the data set at hand.
-* 1 point for providing contextual details about the data set. Save the technical details for the project documentation assignment.
+* 1 point for introducing your project: What's the topic? What's the context? What's interesting? What is this data about? (Save technical details for later.)
+* 1 point for listing 2-3 research questions that are scaled and scoped to the data set at hand.
 * 1 point for identifying your disciplinary angle. Are you approaching this project as a historian, a literature person, someone else entirely? Who is your audience?
+* 1 point for including 1-2 scholarly sources that bolster your research question. How does your topic and disciplinary angle fit into the existing scholarly conversation? 
 
 
 ### Project data
