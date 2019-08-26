@@ -2,14 +2,15 @@
 
 ## Unit 1 / Text
 
-### Thursday, 9/5/19
+###  9/5/19 // Thursday // intro + course overview
 
-* Introductions and course overview
 * Getting to know you [survey](https://forms.gle/vmZq8TmVPZBN5zUb7)
-* Lecture: what is data in the humanities?
-* Lab: Environment setup
-* Lab: domain setup with Reclaim Hosting
-* [Slides]()
+* Lecture: what is data in the humanities? [[slides](https://mackenziekbrooks.github.io/dci102-f19-humanities-data/slides/dci102-f19-day1.html)]
+* Lab
+	* [Environment setup](Unit0/environment.md)
+	* [Domain setup with Reclaim Hosting](Unit0/reclaimmd.md)
+	* CPanel + WordPress install
+
 
 **Read for Tuesday:**
 
@@ -18,13 +19,12 @@
 * [What is Data?](http://schoolofdata.org/handbook/courses/what-is-data/) \(if this link doesn't work, [try this one](http://web.archive.org/web/20161205121253/http://schoolofdata.org:80/handbook/courses/what-is-data/)\)
 * [Defining Data for Humanists: Text, Artifact, Information or Evidence?](http://journalofdigitalhumanities.org/1-1/defining-data-for-humanists-by-trevor-owens/)
 
-### Tuesday, 9/10/19
+### 9/10/19 // Tuesday // how the web works 
 
-* Discussion: readings
-* Lecture: How the internet works
-* Lab: CPanel
-* Lab: HTML + CSS
-* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dci102-f18-day2.html)
+* Discuss: readings
+* Lecture: [How the internet works](https://mackenziekbrooks.github.io/dci102-f19-humanities-data/slides/dci102-f19-day2.html)
+* Lab: [HTML + CSS](Unit0/html-css.md)
+
 
 **Read for Thursday:**
 
@@ -34,21 +34,19 @@
 * Review [Introduction to Windows Command Line with Powershell](https://programminghistorian.org/lessons/intro-to-powershell) \(Windows people\)
 * Review [Introduction to the Bash Command Line](http://programminghistorian.org/lessons/intro-to-bash) \(Mac people\)
 
-### Thursday, 9/12/19
+### 9/12/19 // Thursday // command line 
 
-* Readings discussion
+* Discuss: readings
 * Lab: HTML/CSS cont.
 * Lab: command line \([Command Line Crash Course](https://learnpythonthehardway.org/book/appendixa.html)\)
-* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dci102-f18-day3.html)
+* [Slides](https://mackenziekbrooks.github.io/dci102-f19-humanities-data/slides/dci102-f19-day3.html)
 
 **Read for Tuesday:**
 
 * [Intro to Text Analysis workbook](http://walshbr.com/textanalysiscoursebook/) by Profs. Brandon Walsh and Sarah Horowitz
   * read the Intro, Issues in Text Analysis, and Close Reading.
 
-### Tuesday, 9/17/19
-
-_Methodology review_
+### 9/17/19 // Tuesday // 4 ways to read a text 
 
 * Lecture: 4 ways to read a text
 * Lab: text analysis by hand
@@ -60,17 +58,13 @@ _Methodology review_
 
 **Due on Thursday:**
 
-* Unit 1 Methodology Review
+* [Unit 1 Methodology Review](Unit1/unit1_assignments.md)
 
-### Thursday, 9/19/19
+### 9/19/19 // Thursday // data scavenging
 
-_Methodology review_  
-_Data introduction_
-
-* Assignment: Methodology review due to your Box folder by 2:45pm. Be prepared to share. 
-* Data set introduction
-* Lab: RTP scavenger hunt
-* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dci102-f18-day5.html)
+* Assignment: Methodology review due on Canvas by 2:45pm. Be prepared to share. 
+* Lecture: Data set introduction
+* Lab: Ring-tum Phi scavenger hunt
 
 **Read for Tuesday:**
 
@@ -78,7 +72,7 @@ _Data introduction_
 * [Cleaning OCR'd text with regular expressions](http://programminghistorian.org/lessons/cleaning-ocrd-text-with-regular-expressions)
 * [How Computers Read Texts](http://walshbr.com/textanalysiscoursebook/book/cyborg-readers/computer-reading/) + [Distant Reading](http://walshbr.com/textanalysiscoursebook/book/reading-at-scale/distant-reading/) + [Problems with Data](http://walshbr.com/textanalysiscoursebook/book/data-cleaning/problems-with-data/) from Text Analysis Coursebook
 
-### Tuesday, 9/24/19
+### 9/24/19 // Tuesday // regular expressions (don't panic)
 
 _Data cleanup_
 
@@ -95,9 +89,7 @@ _Data cleanup_
 * Read: [Argument Clinic](http://scottbot.net/argument-clinic/)
 * Look over: [Lexos Manual](http://scalar.usc.edu/works/lexos/manual)
 
-### Thursday, 9/26/19
-
-_Data clean up + project work_
+### 9/26/19 // Thursday // project time
 
 * Lab: data exploration, cleanup
 * Lab: project prep + Lexos
@@ -109,9 +101,9 @@ _Data clean up + project work_
 
 **Due Tuesday**
 
-* Research Question
+* [Unit 1 Research Question](unit1_assignments.md)
 
-### Tuesday, 10/1/19
+### 10/1/19 // Tuesday // project time
 
 _Data viz + project work_
 
@@ -123,23 +115,18 @@ _Data viz + project work_
 
 * [A Beginner's Guide to Writing Documentation](http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
 
-### Thursday, 10/3/19
-
-_Project work + documentation_
+### 10/3/19 // Thursday // documentation! 
 
 * Lab: documentation
 * [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dci102-f18-day9.html)
 
-**All Unit 1 assignments due 10/9/19 by 2:45pm**
+**All Unit 1 assignments due 10/8/19 by 2:45pm**
 
 ## Unit 2 Network
 
-### Tuesday, 10/8/19
+### 10/8/19 // Tuesday // what is network analysis?
 
-_Methodology review_
 
-* Unit 1 project debrief. Be prepared to share your results for Unit 1. 
-* Guest speaker: Alex Farley '19 + Kellie Harra
 
 **Read for Tuesday the 16th:**
 
@@ -147,15 +134,13 @@ _Methodology review_
 * [Demystifying Networks](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/), Parts 1-2
 * [Network Theory, Plot Analysis](https://litlab.stanford.edu/LiteraryLabPamphlet2.pdf) (don't panic, it's mostly graphs)
 
-** Due Tuesday the 16th: methodology review **
+** Due Thursday the 17th: unit 2 methodology review **
 
-### Thursday, 10/10/19
+### 10/10/19 // Thursday // reading days!
 
-No class, reading days
+### 10/15/19 // Tuesday // data scavenging 
 
-### Tuesday, 10/15/19
-
-_Methodology review_
+Prof. Brooks away at conference. Complete Activity X. 
 
 * **Assignment: project review due by 2:30pm. Be prepared to share.**
 * Discussion: readings + assignment
@@ -166,7 +151,7 @@ _Methodology review_
 * [An Entry of One’s Own, or Why Are There So Few Women In the Early Modern Social Network?](http://6dfb.tumblr.com/post/44879380376/an-entry-of-ones-own-or-why-are-there-so-few)
 
 
-### Thursday, 10/17/19
+### 10/17/19 // Thursday // Guest speaker? 
 * Critical DH discussion?
 * Data set introduction
 * Visit to Special Collections?
@@ -179,9 +164,7 @@ _Methodology review_
 * Review this Programming Historian Lesson: "[Using SPARQL to access Linked Open Data](http://programminghistorian.org/lessons/graph-databases-and-SPARQL)" and "[Cleaning Data with Open Refine](http://programminghistorian.org/lessons/cleaning-data-with-openrefine)"
 
 
-### Tuesday, 10/22/19
-_Data structures_  
-_Data cleanup_
+### 10/22/19 // Tuesday // structuring data  
 
 * Lecture: linked data
 * Lecture: How to structure data 
@@ -190,10 +173,8 @@ _Data cleanup_
 
 **Attend "How Big Data Increases Inequality and Destroys Democracy" Cathy O'Neil: 10/24 at 5:30 PM in Northen and write a blog post for participation point** 
 
-### Thursday, 10/24/19
+### 10/24/19 // Thursday // network analysis tools
  
-_Network analysis tools_
-
 * Network analysis tools workshop/sandbox
 * [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day12.html)
 * [Survey](https://goo.gl/forms/4FBrUM0uIefk5Lcu2)

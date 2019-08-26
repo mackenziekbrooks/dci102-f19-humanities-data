@@ -1,10 +1,10 @@
 # Environment
 
-Just as you might outfit your study carrel with all the essentials, you also need to setup your computer with the right tools. Preparing as much as you can ahead of time keeps you from losing momentum when that new tool you want to try has more dependencies than you expected. Make the computer work for you.
+Just as you might outfit your study carrel with all the essentials, you also need to setup your computer with the right tools. Preparing as much as you can ahead of time keeps you from losing momentum when that new tool you want to try has more dependencies than you expected. 
 
 ## Box
 
-Did you know that W&L offers unlimited cloud storage while you're a student? We will use [http://box.wlu.edu/](https://www.wlu.edu/its/how-to/box-faq) to share course materials, including your assignments and project data. Please take some time to familiarize yourself with the platform.
+Did you know that W&L offers unlimited cloud storage while you're a student? We will use [http://box.wlu.edu/](https://www.wlu.edu/its/how-to/box-faq) to share course materials, including some of your assignments and project data. Please take some time to familiarize yourself with the platform.
 
 One key feature of Box is [Box Drive](https://www.box.com/resources/downloads/drive). This makes the contents of your Box folders accessible via the Finder or Windows Explorer. You will need to install Box Drive on your computer.
 
@@ -23,8 +23,6 @@ You are free to use your browser of choice, but please install either Google Chr
 ## Zotero
 
 [Zotero](https://www.zotero.org/) is a citation manager. It operates via a browser plugin so you can capture citation information directly from the web. There is also a standalone desktop app \(and [text mining possibilities](http://papermachines.org/)!\) as well. There's even a plug-in for MS Word that will automatically generate your bibliography.
-
-I have made our course readings available in a Zotero [group library](https://www.zotero.org/groups/dh102-f16). Let me know if you want to join and add resources.
 
 ## Note taking
 
