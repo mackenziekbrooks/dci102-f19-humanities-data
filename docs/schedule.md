@@ -101,7 +101,7 @@ _Data cleanup_
 
 **Due Tuesday**
 
-* [Unit 1 Research Question](unit1_assignments.md)
+* [Unit 1 Research Question](Unit1/unit1_assignments.md)
 
 ### 10/1/19 // Tuesday // project time
 
@@ -186,54 +186,41 @@ Prof. Brooks away at conference. Complete Activity X.
 
 **Due Tuesday: Research question**
 
-### Tuesday, 10/29/19
+### 10/29/19 // Tuesday // project time
 
-_Project work_
-
-* Activity 5
+* [Activity 5](Unit2/unit2_activities.md)
 
 **Prepare 1-2 network visualizations and 1 piece of documentation for peer review on Thursday**
 
-### Thursday, 10/31/19
-
-_Project work + Documentation_
+### 10/31/19 // Thursday // peer review 
 
 * Peer review of documentation, visualizations
 * [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dci102-f18-day13.html)
 
-**All Unit 2 assignments due Tuesday 11/6 by 2:45pm.**
+**All Unit 2 assignments due Tuesday 11/5 by 2:45pm.**
 
 ## Unit 3 Space
 
-### Tuesday, 11/5/19
-
-_Methodology review_
+### 11/5/19 // Tuesday // maps are cool!!!!
 
 * Unit 2 presentations
 * Don't forget to vote! 
-* Intro to Unit 3
-* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dci102-f18-day14.html)
+* [Intro to Unit 3](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dci102-f18-day14.html)
 
 **Read for Thursday:**
 
 * [What is Spatial History?](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29&project_id)
 * [What is the Spatial Turn?](http://spatial.scholarslab.org/spatial-turn/what-is-the-spatial-turn/)
-
-
-### Thursday, 11/7/193
-
-_Methodology review_
-
-* Guest speaker: Sean Tennant from UVa
-
-**Read for Tuesday:**
-
 * [Visualizing the Railway Space in Fontane’s Effi Briest](http://transit.berkeley.edu/2016/youngman-et-al/)
 * [The Geographic Imagination of Civil War-Era American Fiction](http://muse.jhu.edu/article/527788)
 
-**Unit 3 Methodology Review due Tuesday, 11/13**
+### 11/7/19 // Thursday // more maps 
 
-### Tuesday, 11/12/19
+* Discuss: readings
+
+**Unit 3 Methodology Review due Tuesday, 11/12**
+
+### 11/12/19 // Tuesday // methodology review
 
 _Methodology review + Data_
 
@@ -245,7 +232,7 @@ _Methodology review + Data_
 **Read for Thursday:**
 * [Anatomy of a web map](http://maptime.io/anatomy-of-a-web-map/)
 
-### Thursday, 11/14/19
+### 11/14/19 // Thursday // data
 
 _Methodology review + Data_
 
@@ -257,20 +244,16 @@ _Methodology review + Data_
 ** Read for Tuesday:**
 * [We Mapped It So You Don't Have To](http://crln.acrl.org/index.php/crlnews/article/view/16772/19314)
 
-** Research question due Tuesday the 27th**
+** Draft research question due Tuesday the 19th**
 
-
-
-### Tuesday, 11/19/19
+### 11/19/19 // Tuesday // project consults
 
 _Methodology review + Data_
 
 * Activity 3: Mapping tools sandbox
 * Data set/project approval and consults 
 
-### Thursday, 11/21/19
-
-_project work_
+### 11/21/19 // Thursday // project time
 
 * [_Slides_](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day18.html)
 
@@ -278,16 +261,12 @@ _project work_
 
 ### Thanksgiving break
 
-### Tuesday, 12/3/19
-
-_project work + peer review_
+### 12/3/19 // Tuesday // almost there!
 
 * Activity 4
 * course evals
 
-### Thursday, 12/5/19
-
-_wrap up_
+### 12/5/19 // Thursday // presentations & wrap up
 
 * Unit 3 presentations 
 

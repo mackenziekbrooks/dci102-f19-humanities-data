@@ -79,7 +79,7 @@ Specs:
     * Any external research you may have conducted to find a historical map or add information to your data set.
     * Any adjustments you made to the mapping platform \(ex: changing the base map in Neatline\).
 * 1 point for a text file titled ```data-license-DATE.txt``` that includes the following:
-    * Use [Open Data Commons](opendatacommons.org) to help you select an appropriate license for your data set.
+    * Use [Open Data Commons](http://opendatacommons.org) to help you select an appropriate license for your data set.
     * If using an existing data set, refer to their license.
 
 ### Results

@@ -15,11 +15,11 @@ To familiarize ourselves with the various methodologies in the DH world, let's c
 	* Who are authors? What are their affiliations and roles? Have they received external funding? Are students involved?
 * 1 point for describing the following: 
 	* Tell me about the data. Where did it come from? How has it been cleaned, modified, or enhanced? How can you tell?
-	* What established standards \(technical or otherwise\) does the project data use?
+	* What established standards \(technical or otherwise\) does the project data use? You can often identify standards by their unfamiliar acronyms. 
 	* What text analysis methods are at play? What tools are being used? How can you tell?
 	* How open is the project? Do they share their data? In what format? Is there public documentation?
 * 1 point for analyzing the following:
-	* Does the methodology seem appropriate to the data and goals?
+	* Does the methodology seem appropriate to the data and goals? What is your evidence? 
 	* Consider the design of the project. What aspects of the project does the design privilege? How does the design affect your understanding of the material? 
 	
 
@@ -43,9 +43,9 @@ Resources on evaluating digital projects:
 
 ### Research Question
 
-One of the first steps in your project should be to identify your research question(s). What questions do you want to ask of this data? What is your angle? What topics are you interested in? It's important to form a question that you think could be answered by the data we have in the time we have available. It's okay to start small.  
+One of the first steps in your project should be to identify your research question(s). What questions do you want to ask of this data? What is your angle? What topics are you interested in? How will you know when you've reached your answer? It's important to form a question that you think could be answered by the data we have in the time we have available. It's okay, in fact it's encouraged, to start small.  
 
-For example, as a librarian, I might be curious about mentions of the library in the Ring-tum Phi. What role does the library play in students' lives and how has that changed over time? Is the library mentioned more around exam time? Does the library get featured by the RTP, or just casually mentioned as a physical space on campus? How did the new library building change the tone or narrative of the library at W&L? 
+For example, as a librarian, I might be curious about mentions of the library in the Ring-tum Phi. What role does the library play in students' lives and how has that changed over time? Is the library mentioned more around exam time? Does the library get featured by the RTP, or just casually mentioned as a physical space on campus? How did the new library building change the tone or narrative of the library at W&L? To answer these questions, I need to know something about the role of the library at W&L over time. I might need to do a little research to establish the context. 
 
 **Due October 1, 2019 at 2:45pm**
 
@@ -73,7 +73,7 @@ Specs:
 	* saved in Box.
 * 1 point for a zipped folder with your modified/cleaned data set. 
 * 1 point for the data assessment activity parts 1 + 2 in a text file or word doc.
-* 2 points for a text file titled "data-cleanup-%DATE.txt" with a list of the modifications you made to your data set. Those modifications could/should include:
+* 2 points for a text file titled ```data-cleanup.txt``` with a list of the modifications you made to your data set. Those modifications could/should include:
 	* 5 or more regular expressions patterns that have a major effect on your data set. 
 	* Changes made to the existing file structure or file names. Did you combine individual issues into years for instance?
 	* A list of the stopwords you may have used.
@@ -87,9 +87,10 @@ Now that you have some experience creating a usable data set - what can you do w
 **Due Tuesday, October 8, at 2:45pm.**
 
 Specs:
+
 * 1 point for assignment delivery: 
 	* on time
-	* published on your website. 
+	* published on your website with the URL submitted in Canvas. 
 * 1 point for 1-3 visualizations. 
 * 1 point for 300 words interpreting your results.
 * 1 point for indicating the tools/methods used to produce the results.
@@ -109,9 +110,11 @@ As you have reviewed projects and experimented with various tools, you have foun
 
 **Due October 8, at 2:45pm**
 
+
 Specs:
-* 1 point for on time delivery
-	* on your website
+
+* 1 point for on time delivery:
+	* on your website. Submit URL in Canvas.
 	* 150+ words
 * 1 point for well structured documentation (headings, bullet points).
 * 1 point for screenshots, links, or other visual material.
@@ -127,10 +130,11 @@ The final assignment for this unit a piece of reflective writing. Talk about you
 **Due Tuesday, October 8, at 2:45pm.** 
 
 Specs:
+
 * 1 point for assignment delivery:
 	* On time
 	* 300-500 words
-	* Submit on Box. You are welcome, but not required to post to your website.
+	* Submit on Canvas. You are welcome, but not required to post to your website.
 * 4 points for addressing the following: 
 	* What have you learned? 
 	* What has been challenging? 

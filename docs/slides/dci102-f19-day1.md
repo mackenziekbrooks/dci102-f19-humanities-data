@@ -9,8 +9,7 @@ date: September 5, 2019 // Day 1
 * course overview
 * break?
 * environment setup
-* domain setup
-
+* domain + website setup
 
 # introductions
 * Name
@@ -62,7 +61,7 @@ Please fill out the student survey if you haven't already!
 # Why do I care? 
 
 # course website
-[https://legacy.gitbook.com/book/mackenziekbrooks/dh-102-data-in-the-humanities/details](https://legacy.gitbook.com/book/mackenziekbrooks/dh-102-data-in-the-humanities/details)
+[https://mackenziekbrooks.github.io/dci102-f19-humanities-data/](https://mackenziekbrooks.github.io/dci102-f19-humanities-data/)
 
 # Environment setup
 
@@ -82,8 +81,9 @@ Unit 0 / Reclaim Hosting
 
 # WordPress installation
 
-Unit 0 / Activities / Activity 2 
+Unit 0 / Activities / Activity 1
 
 # For Tuesday 
-* Get familiar with WordPress. Try changing your theme or adding pages/posts. 
 * Complete readings as listed on the schedule. 
+* Continue customizing your website.
+* Be sure to have a text editor installed. 
