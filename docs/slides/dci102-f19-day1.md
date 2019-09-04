@@ -20,7 +20,7 @@ date: September 5, 2019 // Day 1
 # survey
 Please fill out the student survey if you haven't already!
 
-[https://goo.gl/forms/DfldntwbMmspVAur2](https://goo.gl/forms/DfldntwbMmspVAur2)
+[https://goo.gl/forms/DfldntwbMmspVAur2](https://forms.gle/LZYzBFSbMFEPqHkf7)
 
 # Digital Culture and Information minor
 [https://wlu.edu/digital-culture-and-information](https://wlu.edu/digital-culture-and-information)
