@@ -18,11 +18,10 @@ The design and organization of your site is up to you, but I expect you to be th
 
 That being said, this domain is in your control. If there is work you do not want to publish to the web, we can arrange other methods of delivery. Password protection is an option.
 
-For more on this topic, see ["Do I Own My Domain If You Grade It?"](https://www.edsurge.com/news/2015-08-10-do-i-own-my-domain-if-you-grade-it) by Andrew Rikard.
 
 ## How
 
-[these instructions are not relevant for DCI 102 Fall 2018, but are left here for posterity]
+[these instructions are not relevant for DCI 102 Fall 2019, but are left here for posterity]
 
 * First, carefully select your domain name. You will also need to pick a top-level domain \(.com, .org, .info etc.\) Davidson/Emory have created [guidance](http://domains.davidson.edu/support/general_information/choosing_a_domain_name) on the selection of a domain name that you may wish to consult. 
 * Register for the Student & Individuals plans from Reclaim. Select the privacy protection add-on. To get there, go to Products &gt; Shared Hosting &gt; Students & Individuals. 

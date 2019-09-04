@@ -1,6 +1,6 @@
 # DCI 102: Data in the Humanities
 
-Fall 2019 // TR 2:45-4:45pm // CGL 114
+Fall 2019 // TR 2:45-4:45pm // CGL 115
 
 [The course website](https://mackenziekbrooks.github.io/dci102-f19-humanities-data) is a living document. It will change regularly to reflect the needs of the course.
 

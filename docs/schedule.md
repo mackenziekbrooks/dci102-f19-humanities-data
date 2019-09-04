@@ -4,7 +4,7 @@
 
 ###  9/5/19 // Thursday // intro + course overview
 
-* Getting to know you [survey](https://forms.gle/vmZq8TmVPZBN5zUb7)
+* Getting to know you [survey](https://forms.gle/hVUMuyiK9j8yqCKc7)
 * Lecture: what is data in the humanities? [[slides](https://mackenziekbrooks.github.io/dci102-f19-humanities-data/slides/dci102-f19-day1.html)]
 * Lab
 	* [Environment setup](Unit0/environment.md)
