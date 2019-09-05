@@ -7,6 +7,7 @@ date: September 5, 2019 // Day 1
 # agenda
 * introductions
 * course overview
+* class charter
 * break?
 * environment setup
 * domain + website setup
@@ -62,6 +63,20 @@ Please fill out the student survey if you haven't already!
 
 # course website
 [https://mackenziekbrooks.github.io/dci102-f19-humanities-data/](https://mackenziekbrooks.github.io/dci102-f19-humanities-data/)
+
+# class charter
+
+# class charter
+Think of your best classroom experience. What made it great? Jot it down.
+
+# class charter
+Think of the worst group discussion experience? What made it bad? Jot it down.
+
+# class charter
+In groups of 3-4, share your experiences with each other, then form a list of the positive and negative qualities in the classroom.
+
+# class charter
+For each quality, identify specific actions to encourage or prevent these qualities. Add the actions to the Boxnote in `DCI102-F19-data > Class Charter`. 
 
 # Environment setup
 
