@@ -41,16 +41,17 @@ Create a separate CSS document and save it as `style.css` in the same folder you
 * Change the border on your table. 
 * Add style to your links when you hover over them. 
 
-## Activity 5
+## Activity 5: Make it live
 
 When you opened your HTML files in your browser, you were viewing your files locally. Only you could see them on your computer. Now it's time to upload them to your domain so other people can view them.
 
+* Navigate to `http://yourdomain.wludci.info/cpanel` and login. 
 * In CPanel, open up the File Manager.
 * Navigate to the `public_html` folder. 
 * Create a new folder titled `activities` or something similar. 
 * Upload all your HTML and CSS files. 
 * Navigate to your equivalent of `www.yourdomain.com/activities`. What do you see?  
-* Add a link to this URL to our shared Box folder. 
+* Add a link to this URL to our shared Box folder in the website registry. 
 
 ## Activity 6
 

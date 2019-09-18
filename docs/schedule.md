@@ -37,6 +37,7 @@
 ### 9/12/19 // Thursday // command line 
 
 * Discuss: readings
+* Lecture: [We Can All Be Technical With the Right Teacher](https://mackenziekbrooks.github.io/dci102-f19-humanities-data/slides/dci102-f19-day3.html)
 * Lab: HTML/CSS cont.
 * Lab: command line \([Command Line Crash Course](https://learnpythonthehardway.org/book/appendixa.html)\)
 * [Slides](https://mackenziekbrooks.github.io/dci102-f19-humanities-data/slides/dci102-f19-day3.html)
@@ -74,17 +75,16 @@
 
 ### 9/24/19 // Tuesday // regular expressions (don't panic)
 
-_Data cleanup_
-
 * Guest speaker: Prof. Jason Mickel, [slides](https://docs.google.com/presentation/d/1dGwQHX8DNuRXgw80nKvBInTY7kJ7DjQKFC6RugSS3So/edit?usp=sharing ) + [answer key](https://docs.google.com/document/d/1AzhUusEp5PM4sQbnWGODe7B6IezkVoe6HBaLjm8hrAg/edit?usp=sharing)
-**For Thursday:**
 
-* Please spend some time in the RTP text files with the following questions in mind:
-  * What potential research questions interest you the most? 
-  * Even if the project seems too big for execution now, what type of text analysis methods would you like to pursue?
-  * What would make the RTP easier to work with? 
-  * Specifically, what can you do to the text files to make them easier to work with? 
-* Review the Assignments page for Unit 1. Bring questions.
+Please spend some time in the RTP text files with the following questions in mind:
+
+* What potential research questions interest you the most? 
+* Even if the project seems too big for execution now, what type of text analysis methods would you like to pursue?
+* What would make the RTP easier to work with? 
+* Specifically, what can you do to the text files to make them easier to work with? 
+
+Review the Assignments page for Unit 1. Bring questions.
 
 * Read: [Argument Clinic](http://scottbot.net/argument-clinic/)
 * Look over: [Lexos Manual](http://scalar.usc.edu/works/lexos/manual)
