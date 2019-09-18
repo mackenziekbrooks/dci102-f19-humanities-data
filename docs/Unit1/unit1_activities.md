@@ -6,10 +6,17 @@
 * Do not search then click on this folder! It will unzip, expand, and take up a lot of space. 
 * Instead, download this file to your Desktop, then unzip/decompress to view the contents. 
 
-## Activity 2: RTP Scavenger Hunt
+## Activity 2
+To search the RTP from your computer, open it in your text editor. 
 
-1. Form teams of three. Each team is responsible for 3-4 topics + "best of" topics. 
-2. In your team's Box note, list your team name, participants, and your topics as headings. 
+In Sublime/Atom:
+* File > Open > select TesseractOCR. If you select the file, then press open, rather than double clicking and entering the folder, you should see all the folders in the left pane. 
+* Use ```Cmd + F``` to search or the Find menu item. If you select a folder name or specific file on the left, you can search on just that folder/file.
+
+## Activity 3: RTP Scavenger Hunt
+
+1. Form teams of three. Each team is responsible for 3-4 topics. One topic can be your choice.
+2. In Box, create a Boxnote for your team. List your team name, participants, and your topics as headings. 
 3. For each topic, find the relevant RTP issue in BOTH the Digital Archive and the data set on your computer. 
 4. Paste in a URL from the Digital Archive AND the filename for the text file in your data set. 
 5. As you go along, note your observations/frustrations about the data set at the bottom of the Box note. What was hard to find? Why? Where are the inconsistencies? How's the OCR? 
@@ -17,35 +24,26 @@
 ### Topics:
 * Coeducation
 * Integration 
-* Bill Clinton 
 * Fraternity Renaissance
 * Sit in (Vietnam) 
-* Jesse Jackson
-* MLK 
+* Martin Luther King Jr.
 * Y2K
 * “The move” of Leyburn Library
-* WW1
+* WW1 or WW2
 * Ambulance Corps 
-* WW2
-* ATO steals a train
 * Hurricane Camille 
 * Virginia Horse Center
 * Prohibition 
 * Lee Chapel 1920s controversy or 1960s renovation
-* Mock Con (Alvin Barclay) 
+* Mock Con 
 * Buildings! Burning of Tucker, Lenfest/Wilson, Elrod Commons, 
 * Cold War
-* Best Fancy Dress theme 
-* Best Advertisement
+* Best Fancy Dress theme:
+* Best Advertisement:
 * Best Greek story:
 * Best sports story: 
+* Your choice: 
 
-## Activity 3
-To search the RTP from your computer, open it in your text editor. 
-
-In Sublime/Atom:
-* File > Open > select TesseractOCR. If you select the file, then press open, rather than double clicking and entering the folder, you should see all the folders in the left pane. 
-* Use ```Cmd + F``` to search or the Find menu item. If you select a folder name or specific file on the left, you can search on just that folder/file.
 
 ## Activity 4
 Let's practice writing documentation for a technical task.

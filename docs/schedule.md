@@ -64,7 +64,8 @@
 ### 9/19/19 // Thursday // data scavenging
 
 * Assignment: Methodology review due on Canvas by 2:45pm. Be prepared to share. 
-* Lecture: Data set introduction
+* Discuss: methodology review
+* Lecture: Data set introduction [[slides](https://mackenziekbrooks.github.io/dci102-f19-humanities-data/slides/dci102-f19-day5.html)]
 * Lab: Ring-tum Phi scavenger hunt
 
 **Read for Tuesday:**
