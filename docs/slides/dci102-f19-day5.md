@@ -20,6 +20,14 @@ date: September 19, 2019
 
 # data set: Ring-tum Phi
 
+# what do we know about the Ring-tum Phi?
+
+# what can the RTP tell us? 
+
+# what can't we learn from the RTP? 
+
+# how did this data set come into being?
+
 # Unit 1 / Activities 1-2
 
 # Unit 1 / Activity 3

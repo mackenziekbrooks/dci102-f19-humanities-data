@@ -2,8 +2,8 @@
 
 ## Activity 1: get the data!
 
-* In Box ```/ DCI102-F18-data / Uni1_Text``` there is a zip file ```TesseractOCR```. 
-* Do not search then click on this folder! It will unzip, expand, and take up a lot of space. 
+* In Box ```/ DCI102-F19-data / unit-1-text``` there is a zip file ```TesseractOCR```. 
+* **Do not search then click on this folder!** It will unzip, expand, and take up a lot of space. 
 * Instead, download this file to your Desktop, then unzip/decompress to view the contents. 
 
 ## Activity 2
