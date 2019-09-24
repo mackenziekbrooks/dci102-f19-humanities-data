@@ -53,7 +53,7 @@ Specs:
 
 * 1 point for assignment delivery
 	* on time
-	* 300-400 words
+	* 400-500 words
 	* publish on your website, submit URL in Canvas.
 * 1 point for introducing your project: What's the topic? What's the context? What's interesting? What is this data about? (Save technical details for later.)
 * 1 point for listing 2-3 research questions that are scaled and scoped to the data set at hand.
@@ -68,6 +68,7 @@ At the beginning of each unit, you will be handed a messy data set. It is a rare
 **Due Tuesday, October 8, 2019 at 2:45pm** 
 
 Specs:
+
 * 1 point for assignment delivery
 	* on time
 	* saved in Box.
