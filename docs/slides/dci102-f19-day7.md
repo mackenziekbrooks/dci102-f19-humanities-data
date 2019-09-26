@@ -1,12 +1,16 @@
 ---
 author: Mackenzie Brooks
 title: DCI 102 // Data exploration & cleanup
-date: September 27, 2018
+date: September 26, 2019
 ---
 
 # ICE BREAKER: Favorite thing about fall
 
 # pep talk
+
+# pep talk
+* this is going to be messy.
+* frustration is a feature. 
 
 # argument clinic
 > "Historical questions don’t pop out of thin air, but from a continuously shifting relationship with the past." - Scott Weingart
@@ -33,8 +37,11 @@ date: September 27, 2018
 * with these methods? 
 * what can you answer now vs. later?
 
-# Lexos! 
-[https://wheatoncollege.edu/academics/special-projects-initiatives/lexomics/lexos-installers/](https://wheatoncollege.edu/academics/special-projects-initiatives/lexomics/lexos-installers/)
+# research question assignment
+* due Tuesday
+* is not a final commitment 
+* requires disciplinary context
+* requires scholarly sources
 
 # process 
 * decide on date range
@@ -45,7 +52,28 @@ date: September 27, 2018
 * analyze results
 * repeat! 
 
-# data assessment 
-* see Unit 1 / Activities
-* feedback if submitted by Tuesday
+# unit 1 assignments 
+
+# blog posts
+
+# speaker today
+> “The Good Parent in an Age of Gene Editing: How Novel Genetic Technologies Challenge Parental Responsibility.”
+- Josephine Johnson, Stackhouse, 5pm TODAY
+
+# questions
+
+# BREAK
+
+# wtf is up with this data set? 
+
+# data assessment
+Unit 1 > Activities > Parts 1 + 2 
+
+# Lexos! 
+[https://wheatoncollege.edu/academics/special-projects-initiatives/lexomics/lexos-installers/](https://wheatoncollege.edu/academics/special-projects-initiatives/lexomics/lexos-installers/)
+
+# For Tuesday:
+* research question assignment due 
+
+
 
