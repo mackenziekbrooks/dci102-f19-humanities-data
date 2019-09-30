@@ -45,7 +45,27 @@ In Sublime/Atom:
 * Your choice: 
 
 
-## Activity 4
+## Activity 4: Text Analysis Tools
+In order to find the right text analysis tool for your research question, let's sample several different options. You can find more info about options on the [Methodology page](unit1_methodology.md).
+
+In your assigned groups, work together to install your piece of software, review the documentation, and test out how it works. Often, you can find a "Quickstart" guide or tutorial with the basic instructions you will need to get going. 
+
+* [AntConc](http://www.laurenceanthony.net/software/antconc/) (team 1)
+* [Topic Modeling Tool](https://senderle.github.io/topic-modeling-tool/documentation/2017/01/06/quickstart.html) (team 2)
+* [Lexos](http://lexos.wheatoncollege.edu/) (team 3)
+* [Voyant](http://voyant-tools.org/) (team 4)
+
+As a group, consider the following questions. Be prepared to share with the class.  
+
+* Who created this tool?
+* What documentation is available?
+* How do you input/output data? 
+* What visualization options are available? 
+* What types of questions does this tool enable?
+
+
+
+## Activity 5: Documentation
 Let's practice writing documentation for a technical task.
 
 * Create a Box Note in ```Unit1_Text/Activity4``` with your name + number.
@@ -61,14 +81,14 @@ Let's practice writing documentation for a technical task.
 3. Create a menu in Wordpress
 
 # Data Assessment 
-Record the answers to all questions in a text file or Word doc saved to DCI102-studentname Box Folder. 
+Record the answers to all questions in a text file or Word doc. You will turn in Parts 1 + 2 with the rest of Unit 1 assignments.  
 
 ## Part 1 - File structure + command line
 Using your new found command line skills, let's learn more about the RTP data. 
 
 * Use `pwd` `cd` and `ls` to navigate through the `TesseractOCR` folder. 
 	* What is the basic file structure of the data set as you have received it? What about the file names? What are the patterns? Where (or when) do the patterns change? 
-	* What is the granularity of the text files? Does each file contain one page? Issue? Reel? Volume? Year? 
+	* What is the granularity (of the text files? Does each file contain one page? Issue? Reel? Volume? Year? 
 * Use `cat` to read a file. Find the manual for `cat`. What else can you do with this command?
 * What happens when you type `ls *.2.txt`?
 * Can you figure out how to list all the file names in `TesseractOCR` and send them to a text file?
@@ -77,7 +97,7 @@ Using your new found command line skills, let's learn more about the RTP data.
 ## Part 2 - RegEx 
 Using your new found regex skills, let's start cleaning up some RTP data.
 
-* In Sublime or Atom, open the TesseractOCR folder so the left pane contains the file structure. 
+* In Sublime, open the TesseractOCR folder so the left pane contains the file structure. You can do this by clicking File > Open, select the TesseractOCR folder, then click Open.
 * Look around for repetitive problems in the OCR. List 5 problems you find more than once. 
 * Start testing regular expressions on those problems. List your successful tests. You can use regex101.com if it helps. 
 * Answer the following: 

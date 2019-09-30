@@ -92,11 +92,10 @@ Review the Assignments page for Unit 1. Bring questions.
 * Read: [Argument Clinic](http://scottbot.net/argument-clinic/)
 * Look over: [Lexos Manual](http://scalar.usc.edu/works/lexos/manual)
 
-### 9/26/19 // Thursday // project time
+### 9/26/19 // Thursday // data cleanup
 
 * Lab: data exploration, cleanup
-* Lab: project prep + Lexos
-* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dci102-f18-day7.html)
+* [Slides](https://mackenziekbrooks.github.io/dci102-f19-humanities-data/slides/dci102-f19-day7.html)
 
 **Read for Tuesday:**
 
@@ -106,13 +105,11 @@ Review the Assignments page for Unit 1. Bring questions.
 
 * [Unit 1 Research Question](Unit1/unit1_assignments.md)
 
-### 10/1/19 // Tuesday // project time
-
-_Data viz + project work_
+### 10/1/19 // Tuesday // text analysis tools
 
 * Assignment: research question due
-* Lab: text analysis tools + individual consults
-* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dci102-f18-day8.html)
+* Lab: text analysis tools
+* [Slides](https://mackenziekbrooks.github.io/dci102-f19-humanities-data/slides/dci102-f19-day8.html)
 
 **Read for Thursday:**
 
@@ -121,23 +118,17 @@ _Data viz + project work_
 ### 10/3/19 // Thursday // documentation! 
 
 * Lab: documentation
-* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dci102-f18-day9.html)
+* individual consults
+* [Slides](https://mackenziekbrooks.github.io/dci102-f19-humanities-data/slides/dci102-f19-day9.html)
 
-**All Unit 1 assignments due 10/8/19 by 2:45pm**
+
+### 10/8/19 // Tuesday // unit 1 wrap up
+* Unit 1 presentations
+
+**All Unit 1 assignments due 10/9/19 by 5:00pm**
+
 
 ## Unit 2 Network
-
-### 10/8/19 // Tuesday // what is network analysis?
-
-
-
-**Read for Tuesday the 16th:**
-
-* [Networks Analysis ](http://www.themacroscope.org/?page_id=889)
-* [Demystifying Networks](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/), Parts 1-2
-* [Network Theory, Plot Analysis](https://litlab.stanford.edu/LiteraryLabPamphlet2.pdf) (don't panic, it's mostly graphs)
-
-** Due Thursday the 17th: unit 2 methodology review **
 
 ### 10/10/19 // Thursday // reading days!
 
@@ -145,22 +136,27 @@ _Data viz + project work_
 
 Prof. Brooks away at conference. Complete Activity X. 
 
-* **Assignment: project review due by 2:30pm. Be prepared to share.**
-* Discussion: readings + assignment
-* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dci102-f18-day10.html)
 
-**For Thursday:**
+**Read for Thursday the 17th:**
+
+* [Networks Analysis ](http://www.themacroscope.org/?page_id=889)
+* [Demystifying Networks](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/), Parts 1-2
+* [Network Theory, Plot Analysis](https://litlab.stanford.edu/LiteraryLabPamphlet2.pdf) (don't panic, it's mostly graphs)
+
+### 10/17/19 // Thursday // networks!	
+* Guest speaker: Chris Whitehead, UVa
+
+**Assigment: methodology review due on Tuesday by 2:45pm**
+
+### 10/22/19 // Tuesday // network methods
+* Unit 2 method review due today
+* discuss: readings
+
+/// TO BE REARRANGED
+
 * [From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources](http://programminghistorian.org/lessons/creating-network-diagrams-from-historical-sources) (look over)
 * [An Entry of One’s Own, or Why Are There So Few Women In the Early Modern Social Network?](http://6dfb.tumblr.com/post/44879380376/an-entry-of-ones-own-or-why-are-there-so-few)
 
-
-### 10/17/19 // Thursday // Guest speaker? 
-* Critical DH discussion?
-* Data set introduction
-* Visit to Special Collections?
-* Slides
-
-** Read for Tuesday:**
 * [Databases for people who don't know a whole lot about them](https://medium.com/@rwilliams_bv/intro-to-databases-for-people-who-dont-know-a-whole-lot-about-them-a64ae9af712#.tmk6ooisu)
 * Install [Open Refine](http://openrefine.org/)
 * Watch ["What is Linked Data?"](https://www.youtube.com/watch?v=4x_xzT5eF5Q) by Manu Sporny

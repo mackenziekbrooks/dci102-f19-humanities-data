@@ -63,9 +63,9 @@ Specs:
 
 ### Project data
 
-At the beginning of each unit, you will be handed a messy data set. It is a rare thing to find a perfectly structured and organized set of data in the wild. A major component of your work during each unit will involve turning this data into something usable for visualization or other types of analysis. "Usable," of course, depends on the nature of your project. Ideally, a clean and well-structured data set can serve a variety of uses AND live beyond specific tools or visualization trends. For Unit 1, you'll need tokenized 
+At the beginning of each unit, you will be handed a messy data set. It is a rare thing to find a perfectly structured and organized set of data in the wild. A major component of your work during each unit will involve turning this data into something usable for visualization or other types of analysis. "Usable," of course, depends on the nature of your project. Ideally, a clean and well-structured data set can serve a variety of uses AND live beyond specific tools or visualization trends. 
 
-**Due Tuesday, October 8, 2019 at 2:45pm** 
+**Due Wednesday, October 9, at 5:00pm.**
 
 Specs:
 
@@ -73,7 +73,7 @@ Specs:
 	* on time
 	* saved in Box.
 * 1 point for a zipped folder with your modified/cleaned data set. 
-* 1 point for the data assessment activity parts 1 + 2 in a text file or word doc.
+* 1 point for the [data assessment activity](https://mackenziekbrooks.github.io/dci102-f19-humanities-data/Unit1/unit1_activities/#data-assessment) parts 1 + 2 in a text file or word doc.
 * 2 points for a text file titled ```data-cleanup.txt``` with a list of the modifications you made to your data set. Those modifications could/should include:
 	* 5 or more regular expressions patterns that have a major effect on your data set. 
 	* Changes made to the existing file structure or file names. Did you combine individual issues into years for instance?
@@ -85,7 +85,7 @@ Specs:
 
 Now that you have some experience creating a usable data set - what can you do with it? What are the results of your research questions? From the tools we have experimented with in class, select your favorite and/or most meaningful visualizations. This can be a graph, a word cloud, a topic model etc. You can even generate data in one program, then visualize in another. Next, interpret this visualization. Use "[Using Data Visualization to Find Insights in Data](http://datajournalismhandbook.org/1.0/en/understanding_data_7.html)" to guide your writing. 
 
-**Due Tuesday, October 8, at 2:45pm.**
+**Due Wednesday, October 9, at 5:00pm.**
 
 Specs:
 
@@ -109,7 +109,7 @@ Resources on visualization:
 
 As you have reviewed projects and experimented with various tools, you have found yourself relying on their documentation. Documentation is super important, but it doesn't always get the attention it deserves. Documenting your process, your project, and everything in between helps yourself and others. There are many different forms of documentation, but for this assignment, I'm asking you to document the process by which you achieved your results. This could be how you cleaned your data with Regex or how to import and visualize your data in a text analysis tool. Your professor is not your audience. Imagine a friend or family member trying to recreate what you have done in this unit using your documentation.
 
-**Due October 8, at 2:45pm**
+**Due Wednesday, October 9, at 5:00pm.**
 
 
 Specs:
@@ -128,7 +128,7 @@ Check out [A Beginner's Guide to Writing Documentation](http://www.writethedocs.
 
 The final assignment for this unit a piece of reflective writing. Talk about your feelings. What have you learned? What has been challenging? How has your relationship with technology changed? What would you have done differently? What new strategies will you try in the next unit?
 
-**Due Tuesday, October 8, at 2:45pm.** 
+**Due Wednesday, October 9, at 5:00pm.**
 
 Specs:
 
@@ -156,7 +156,7 @@ You are free to choose the topic of your blog posts, as long as there is a conne
 
 Specs:
 
-* Up to 2 blog posts due Tuesday, October 8, 2019 at 2:45pm. \(I recommend spacing them out!\)
+* Up to 2 blog posts due **Wednesday, October 9, at 5:00pm.** \(I recommend spacing them out!\)
 * Publish to your own domain. 
 * 300-500 words per post.
 * Link to outside articles and embed images \(with citations!\), if relevant.
