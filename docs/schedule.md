@@ -115,6 +115,15 @@ Review the Assignments page for Unit 1. Bring questions.
 
 * [A Beginner's Guide to Writing Documentation](http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
 
+Prep for individual consults with these questions:
+
+1. What is my research question or topic?
+2. What are the biggest problems I have found with the data? What are realistic solutions?
+3. What methods/tools am I interested in using?
+4. What resources do I need?
+5. What are my next steps? Break them down!
+
+
 ### 10/3/19 // Thursday // documentation! 
 
 * Lab: documentation

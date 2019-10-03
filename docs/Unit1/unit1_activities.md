@@ -77,7 +77,7 @@ Let's practice writing documentation for a technical task.
 
 
 1. Install Wordpress from CPanel
-2. Write a basic HTML page
+2. Write a very basic HTML page
 3. Create a menu in Wordpress
 
 # Data Assessment 
