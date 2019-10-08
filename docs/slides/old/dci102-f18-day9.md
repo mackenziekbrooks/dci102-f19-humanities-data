@@ -34,22 +34,6 @@ date: October 4, 2018
 
 # Activity 4
 
-# Pep talk
-
-# Unit 1 assignments 
-* data 
-	* data assessment activity
-	* list of cleanup tasks (regex)
-	* zipped with data subset if applicable
-* results  
-* visualization 
-
-# Unit 1 assignments 
-* documentation of task
-* reflection
-* 2 blog posts
-
-
 
 
 

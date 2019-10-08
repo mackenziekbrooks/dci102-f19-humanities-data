@@ -133,6 +133,8 @@ Prep for individual consults with these questions:
 
 ### 10/8/19 // Tuesday // unit 1 wrap up
 * Unit 1 presentations
+* [slides](https://mackenziekbrooks.github.io/dci102-f19-humanities-data/slides/dci102-f19-day10.html)
+* [Unit 1 feelings form](https://forms.gle/9yW9nqkN6LKkANgQ6)
 
 **All Unit 1 assignments due 10/9/19 by 5:00pm**
 
