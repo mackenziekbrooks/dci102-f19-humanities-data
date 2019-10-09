@@ -143,36 +143,37 @@ Prep for individual consults with these questions:
 
 ### 10/10/19 // Thursday // reading days!
 
-### 10/15/19 // Tuesday // data scavenging 
+### 10/15/19 // Tuesday
 
-Prof. Brooks away at conference. Complete Activity X. 
+Prof. Brooks is away at conference. To make up for our missed class time, please complete Unit 2 / Activity 1. You can work together on this activity if you want, but you will need to write individual blog posts summarizing your work. The activity and blog post should be completed in Box and Canvas by Thursday at class time. 
 
+**Read for Tuesday the 17th:**
 
-**Read for Thursday the 17th:**
-
+* [Demystifying Networks](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/), Parts 1 & 2
 * [Networks Analysis ](http://www.themacroscope.org/?page_id=889)
-* [Demystifying Networks](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/), Parts 1-2
 * [Network Theory, Plot Analysis](https://litlab.stanford.edu/LiteraryLabPamphlet2.pdf) (don't panic, it's mostly graphs)
 
 ### 10/17/19 // Thursday // networks!	
 * Guest speaker: Chris Whitehead, UVa
 
-**Assigment: methodology review due on Tuesday by 2:45pm**
+**Assignment: methodology review due on Tuesday by 2:45pm**
 
 ### 10/22/19 // Tuesday // network methods
-* Unit 2 method review due today
+* [Unit 2 method review due today](https://mackenziekbrooks.github.io/dci102-f19-humanities-data/Unit2/unit2_assignments/#methodology-review)
 * discuss: readings
 
-/// TO BE REARRANGED
+**Read for Thursday:**
 
-* [From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources](http://programminghistorian.org/lessons/creating-network-diagrams-from-historical-sources) (look over)
-* [An Entry of One’s Own, or Why Are There So Few Women In the Early Modern Social Network?](http://6dfb.tumblr.com/post/44879380376/an-entry-of-ones-own-or-why-are-there-so-few)
 
-* [Databases for people who don't know a whole lot about them](https://medium.com/@rwilliams_bv/intro-to-databases-for-people-who-dont-know-a-whole-lot-about-them-a64ae9af712#.tmk6ooisu)
+### 10/24/19 // Thursday // data scavenging 
+* data set introduction
+
+**Read for Tuesday:** 
+
 * Install [Open Refine](http://openrefine.org/)
 * Watch ["What is Linked Data?"](https://www.youtube.com/watch?v=4x_xzT5eF5Q) by Manu Sporny
 * Review this Programming Historian Lesson: "[Using SPARQL to access Linked Open Data](http://programminghistorian.org/lessons/graph-databases-and-SPARQL)" and "[Cleaning Data with Open Refine](http://programminghistorian.org/lessons/cleaning-data-with-openrefine)"
-
+* [Databases for people who don't know a whole lot about them](https://medium.com/@rwilliams_bv/intro-to-databases-for-people-who-dont-know-a-whole-lot-about-them-a64ae9af712#.tmk6ooisu)
 
 ### 10/22/19 // Tuesday // structuring data  
 
@@ -181,7 +182,6 @@ Prof. Brooks away at conference. Complete Activity X.
 * Lab: Open Refine 
 * [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dci102-f18-day11.html)
 
-**Attend "How Big Data Increases Inequality and Destroys Democracy" Cathy O'Neil: 10/24 at 5:30 PM in Northen and write a blog post for participation point** 
 
 ### 10/24/19 // Thursday // network analysis tools
  
@@ -190,6 +190,9 @@ Prof. Brooks away at conference. Complete Activity X.
 * [Survey](https://goo.gl/forms/4FBrUM0uIefk5Lcu2)
 
 **Read for Tuesday**
+
+* [From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources](http://programminghistorian.org/lessons/creating-network-diagrams-from-historical-sources) (look over)
+* [An Entry of One’s Own, or Why Are There So Few Women In the Early Modern Social Network?](http://6dfb.tumblr.com/post/44879380376/an-entry-of-ones-own-or-why-are-there-so-few)
 
 * [Data + Design](https://infoactive.co/data-design/titlepage01.html), chapters on data cleaning and visualization \(and more!\)
 * [When the Designer Shows up in the Design](https://www.propublica.org/article/when-the-designer-shows-up-in-the-design)

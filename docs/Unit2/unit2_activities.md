@@ -1,20 +1,31 @@
 # Unit 2 / Activities
 
-## Activity 1: Design a network!
+## Activity 1: Data Scavenger Hunt
+This activity comes in two pieces. First, you will do research on the data set options for this unit and answer specific questions in a Boxnote. You can do this research as a group if you like. Second, you will write a blog post about your findings and post it to your website. Even if you work in a group on your research, the blog post should be your own. This will be due by class on Thursday. Submit the URL in Canvas. 
+
+### Part 1: Data set research! 
+* First, read the [Unit 2 Data](Unit2/unit2_data.md) page. 
+* Second, take a look at the data in the Box folder `unit-2-network`. There are four difference data sets that you can choose from for Unit 2. Just open up each file and take a look around. You don't have to understand the structure, just try to get a sense of the content. Some folders have related documents as well. 
+* Third, make a copy of the "Data Scavenger Hunt" Boxnote in `unit-2-network`. Add your name or team name to the file. 
+* Fourth, answer the questions in the Boxnote to the best of your ability. You will be provided with links and hints. However! Some of the questions may require you to leave your computer! Or you may want to conduct a little external research. 
+
+### Part 2: Blog post
+Write a 300-500 word blog post that addresses the following questions. It will count toward a participation point for this unit. 
+
+* What did you find most interesting about these data sets? Why? 
+* How did your research go? What information or materials was missing? How did fill in the gaps for yourself? 
+* Where do you see connections between people occurring in these data sets? What could we learn from these connections? 
+
+
+
+## Activity X: Design a network!
 
 In order to practice using the terminology and methods of network analysis, let's design a network from scratch. Consult [Network Analysis Fundamentals](http://www.themacroscope.org/?page_id=892) for some help with terminology.  
 1. In your group, select a topic for your network. It should be approachable for all members of your group. Game of Thrones? W&L students? Sports? A novel or TV show?  
 2. List all the nodes in your network. Do they have types? Do they have attributes? Is this a biomodal or multimodal network?  
 3. Start making connections or edges in your network. What type of edges do you need? Do the edges have a weight?  
 4. Think about centrality. Do you have an ego network? How might you start calculating centrality?
-
-## Activity 2: Special Collections Scavenger Hunt
-
-1. Form teams of 4-5. 
-2. Create a Box note in Unit 2 / Scavenger Hunt for your team. List your names at the top. 
-3. In Special Collections, groups will rotate through each collection. You should answer questions by reviewing the material and asking Special Collections staff. 
-4. For each collection, you'll want to consider: "where is the network here?" 
-5. For your bonus participation point, visit the Stonewall Jackson Cemetery and add a photo to your Box note. 
+ 
 
 
 ## Activity 3: Open Graph protocol

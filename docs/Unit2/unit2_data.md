@@ -1,6 +1,6 @@
 # Unit 2 / Network / Data 
 
-For the next two units, students will choose from several different data sets. 
+In this unit, you will choose one of four datasets for your network analysis project. 
 
 ## Shenandoah Index
 Some of you may have heard of *[Shenandoah](http://shenandoahliterary.org/)*, the literary magazine associated with W&L. It was actually founded here in the 1950s by a group of students. Now, it's run by Beth Staples published exclusively online. 
@@ -14,16 +14,16 @@ This is not a literary history course, but there is a lot to learn about the mid
 To see what others have done with this type of material, check out the [Modernist Journals Projects Labs](http://cds.library.brown.edu/projects/mjplab/Masses/index.html).
 
 ## Thomas Carter Personal Library
-This summer, Laurel Myers completed an inventory of the personal library of a 1950s W&L Student, Thomas Carter. She created this inventory as the first step in a project about the reading habits of a young literary scholar. You can learn more about this project in the WLUDH [GitHub repo](https://github.com/wludh/carter-library). There's a biographical sketch of Carter in a 1980 _Shenandoah_ article available in Box.
+A few summers ago, Laurel Myers completed an inventory of the personal library of a 1950s W&L Student, Thomas Carter. She created this inventory as the first step in a project about the reading habits of a young literary scholar. You can learn more about this project in the WLUDH [GitHub repo](https://github.com/wludh/carter-library). There's a biographical sketch of Carter in a 1980 _Shenandoah_ article available in Box.
 
 What can we learn about Carter and his reading or book buying habits through network visualizations? What were popular authors or topics? How did his taste change over time? What genres are represented? Check out this Hathi Trust project, [Creating Data](http://creatingdata.us/datasets/hathi-features/), for a model of how to make meaning from library collections. 
 
 ## Stonewall Jackson Cemetery
-If you haven't noticed, Lexington is a major tourist destination for Civil War History. Places like Lee Chapel and the Stonewall Jackson Cemetery attract tens of thousands of visitors a year. In 2013, Leyburn Library launched an online database of those buried in the Stonewall Jackson Cemetery. Carol Karsch (Data and Statistical Support Specialist) collaborated with Lexington resident Tom Kastner to create the database. Emily Crawford '15 assisted with the work of cleaning up the data and the accompanying photos. 
+If you haven't noticed, Lexington is a major tourist destination for Civil War History. Places like Lee Chapel and the Stonewall Jackson Cemetery attract tens of thousands of visitors a year. In 2013, Leyburn Library launched an online database of those buried in the Stonewall Jackson Cemetery. Carol Karsch (former Data and Statistical Support Specialist) collaborated with Lexington resident Tom Kastner to create the database. Emily Crawford '15 assisted with the work of cleaning up the data and the accompanying photos. 
 
 [Press release](http://news.blogs.wlu.edu/2013/02/11/wl-creates-website-for-stonewall-jackson-cemetery-census/)
 
-[Stonewall Jackson Memorial Cemetery database](http://library2.wlu.edu/SJCemetery/)
+[Stonewall Jackson Memorial Cemetery database](http://library.wlu.edu/SJCemetery/)
 
 This database is a boon to family history and local history researchers. In addition to Jackson, there are a number of other historical figures buried in the cemetery. The [Wikipedia page](https://en.wikipedia.org/wiki/Stonewall_Jackson_Memorial_Cemetery) lists a few. You might recognize names like Preston or Paxton from the streets of Lexington. As you scroll through the database, you will notice that generations of family members are buried in the cemetery. Many of these families intermarried and some still reside in Lexington today. In some cases, the parent-child relationship has been noted in the data. The database has some additional information: veteran status, occupation, and birth/death dates.
 
@@ -31,7 +31,8 @@ Obviously, having this information available online is a tremendous resource, bu
 
 ## President Wilson Correspondence 
 W&L went co-ed in 1985, under the leadership of President John Wilson. As part of her research on the networks of ethical leaders, Prof. Megan Hess, with assistance from Alex Farley '19, has been working on the correspondence of Wilson with his constituents. 
- 
+
+Meanwhile, the library has been working toward a [digital exhibit](http://coeducation.wludci.info/) on Women at W&L. It's still in progress, but you can check out some letters from alumni about the coeducation decision. 
   
    
      
