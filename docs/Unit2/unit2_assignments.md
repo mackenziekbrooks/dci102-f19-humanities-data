@@ -4,7 +4,7 @@
 
 To familiarize ourselves with the various methodologies in the DH world, let's conduct a review of one DH project. You may select from the list below or find a project of your choosing \(subject to professor approval\), as long as it uses network data as its source. Be prepared to share your review in class. 
 
-**Due October 17, 2019 at 2:45pm.**
+**Due October 22, 2019 at 2:45pm.**
 
 * 1 point for assignment delivery:
 	* on time
@@ -65,7 +65,7 @@ Specs:
 
 At the beginning of each unit, you will be handed a messy data set. It is a rare thing to find a perfectly structured and organized set of data in the wild. A major component of your work during each unit will involve turning this data into something usable for visualization or other types of analysis. "Usable," of course, depends on the nature of your project. Ideally, a clean and well-structured data set can serve a variety of uses AND live beyond specific tools or visualization trends. 
 
-**Due Tuesday, November 5, 2019 at 2:45pm**
+**Due Thursday, November 7th, 2019 at 2:45pm**
 
 * 1 point for assignment delivery
 	* on time
@@ -82,7 +82,7 @@ At the beginning of each unit, you will be handed a messy data set. It is a rare
 
 Now that you have some experience creating a usable data set - what can you do with it? What are the results of your research questions? From the tools we have experimented with in class, select your favorite and/or most meaningful visualizations. This can be a graph, a word cloud, a topic model etc. You can even generate data in one program, then visualize in another. Next, interpret this visualization. Use "[Using Data Visualization to Find Insights in Data](http://datajournalismhandbook.org/1.0/en/understanding_data_7.html)" to guide your writing.
 
-**Due Tuesday, November 5, 2019 at 2:45pm**
+**Due Thursday, November 7th, 2019 at 2:45pm**
 
 * 1 point for assignment delivery:
 	* on time
@@ -101,7 +101,7 @@ More resources on visualization:
 
 As you have reviewed projects and experimented with various tools, you have found yourself relying on their documentation. Documentation is super important, but it doesn't always get the attention it deserves. Documenting your process, your project, and everything in between helps yourself and others. There are many different forms of documentation, but for this assignment, I'm asking you to document the process by which you achieved your results. This could be how you cleaned your data with Regex or how to import and visualize your data in a text analysis tool. Your professor is not your audience. Imagine a friend or family member trying to recreate what you have done in this unit using your documentation.
 
-**Due Tuesday, November 5, 2019 at 2:45pm**
+**Due Thursday, November 7th, 2019 at 2:45pm**
 
 * 1 point for on time delivery
 	* on your website
@@ -117,7 +117,7 @@ Check out [A Beginner's Guide to Writing Documentation](http://www.writethedocs.
 
 The final assignment for this unit a piece of reflective writing. Talk about your feelings. What have you learned? What has been challenging? How has your relationship with technology changed? What would you have done differently? What new strategies will you try in the next unit?
 
-**Due Tuesday, November 5, 2019 at 2:45pm**
+**Due Thursday, November 7th, 2019 at 2:45pm**
 
 * 1 point for assignment delivery:
 	* On time
@@ -139,10 +139,10 @@ You are free to choose the topic of your blog posts, as long as there is a conne
 * What networks would you like to look at in or outside of your own field of study? Why? 
 * What interests you about the data set you have chosen to work with? What other local history topics could use network analysis/visualization?
 * Respond/reflect on our reading on Critical DH. See "[Missed Connections: What Search Engines Say About Women](https://safiyaunoble.files.wordpress.com/2012/03/54_search_engines.pdf)" or ["An Entry of One’s Own, or Why Are There So Few Women In the Early Modern Social Network?](http://6dfb.tumblr.com/post/44879380376/an-entry-of-ones-own-or-why-are-there-so-few)
-* Attend "How Big Data Increases Inequality and Destroys Democracy" Cathy O'Neil: 10/24 at 5:30 PM in Northen Auditorium and write a blog post about the event.
+
  *** 
 
-**Due Tuesday, November 5, 2019 at 2:45pm** 
+**Due Thursday, November 7th, 2019 at 2:45pm**
 * Publish to your own domain.
 * 300-500 words per post.
 * Link to outside articles and embed images \(with citations!\), if relevant.

@@ -18,7 +18,7 @@ Write a 300-500 word blog post that addresses the following questions. It will c
 
 
 
-## Activity X: Design a network!
+## Activity 2: Design a network!
 
 In order to practice using the terminology and methods of network analysis, let's design a network from scratch. Consult [Network Analysis Fundamentals](http://www.themacroscope.org/?page_id=892) for some help with terminology.  
 1. In your group, select a topic for your network. It should be approachable for all members of your group. Game of Thrones? W&L students? Sports? A novel or TV show?  

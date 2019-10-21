@@ -145,9 +145,9 @@ Prep for individual consults with these questions:
 
 ### 10/15/19 // Tuesday
 
-Prof. Brooks is away at conference. To make up for our missed class time, please complete Unit 2 / Activity 1. You can work together on this activity if you want, but you will need to write individual blog posts summarizing your work. The activity and blog post should be completed in Box and Canvas by Thursday at class time. 
+Prof. Brooks is away at conference. To make up for our missed class time, please complete [Unit 2 / Activity 1](Unit2/unit2_activities.md). You can work together on this activity if you want, but you will need to write individual blog posts summarizing your work. The activity and blog post should be completed in Box and Canvas by Thursday at class time. 
 
-**Read for Tuesday the 17th:**
+**Read for Thursday the 17th:**
 
 * [Demystifying Networks](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/), Parts 1 & 2
 * [Networks Analysis ](http://www.themacroscope.org/?page_id=889)
@@ -160,76 +160,55 @@ Prof. Brooks is away at conference. To make up for our missed class time, please
 
 ### 10/22/19 // Tuesday // network methods
 * [Unit 2 method review due today](https://mackenziekbrooks.github.io/dci102-f19-humanities-data/Unit2/unit2_assignments/#methodology-review)
-* discuss: readings
+* discuss: readings + method reviews
 
 **Read for Thursday:**
 
-
-### 10/24/19 // Thursday // data scavenging 
-* data set introduction
-
-**Read for Tuesday:** 
-
-* Install [Open Refine](http://openrefine.org/)
-* Watch ["What is Linked Data?"](https://www.youtube.com/watch?v=4x_xzT5eF5Q) by Manu Sporny
-* Review this Programming Historian Lesson: "[Using SPARQL to access Linked Open Data](http://programminghistorian.org/lessons/graph-databases-and-SPARQL)" and "[Cleaning Data with Open Refine](http://programminghistorian.org/lessons/cleaning-data-with-openrefine)"
 * [Databases for people who don't know a whole lot about them](https://medium.com/@rwilliams_bv/intro-to-databases-for-people-who-dont-know-a-whole-lot-about-them-a64ae9af712#.tmk6ooisu)
+* Watch ["What is Linked Data?"](https://www.youtube.com/watch?v=4x_xzT5eF5Q) by Manu Sporny
+* Look over these Programming Historian lessons: "[Using SPARQL to access Linked Open Data](http://programminghistorian.org/lessons/graph-databases-and-SPARQL)" and "[Cleaning Data with Open Refine](http://programminghistorian.org/lessons/cleaning-data-with-openrefine)"
+* Install [Open Refine](http://openrefine.org/) (we'll work on in class if you get stuck)
 
-### 10/22/19 // Tuesday // structuring data  
+### 10/24/19 // Thursday // data structures 
+* data structures + dream of linked data
+* data set review + assessment 
 
-* Lecture: linked data
-* Lecture: How to structure data 
-* Lab: Open Refine 
-* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dci102-f18-day11.html)
+**Due Tuesday: research question** 
 
-
-### 10/24/19 // Thursday // network analysis tools
- 
-* Network analysis tools workshop/sandbox
-* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day12.html)
-* [Survey](https://goo.gl/forms/4FBrUM0uIefk5Lcu2)
-
-**Read for Tuesday**
+**Read for Tuesday:**
 
 * [From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources](http://programminghistorian.org/lessons/creating-network-diagrams-from-historical-sources) (look over)
-* [An Entry of One’s Own, or Why Are There So Few Women In the Early Modern Social Network?](http://6dfb.tumblr.com/post/44879380376/an-entry-of-ones-own-or-why-are-there-so-few)
 
-* [Data + Design](https://infoactive.co/data-design/titlepage01.html), chapters on data cleaning and visualization \(and more!\)
+### 10/29/19 // Tuesday
+* research question due!
+* network analysis tools sandbox
+
+**Read for Thursday:**
+
+* [An Entry of One’s Own, or Why Are There So Few Women In the Early Modern Social Network?](http://6dfb.tumblr.com/post/44879380376/an-entry-of-ones-own-or-why-are-there-so-few)
 * [When the Designer Shows up in the Design](https://www.propublica.org/article/when-the-designer-shows-up-in-the-design)
 
-**Due Tuesday: Research question**
 
-### 10/29/19 // Tuesday // project time
+### 10/31/19 // Thursday
+* readings discussion
+* project work
 
-* [Activity 5](Unit2/unit2_activities.md)
 
-**Prepare 1-2 network visualizations and 1 piece of documentation for peer review on Thursday**
-
-### 10/31/19 // Thursday // peer review 
-
-* Peer review of documentation, visualizations
-* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dci102-f18-day13.html)
-
-**All Unit 2 assignments due Tuesday 11/5 by 2:45pm.**
-
-## Unit 3 Space
-
-### 11/5/19 // Tuesday // maps are cool!!!!
-
-* Unit 2 presentations
+### 11/5/19 // Tuesday
 * Don't forget to vote! 
-* [Intro to Unit 3](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dci102-f18-day14.html)
+* peer review + project work
+
+**All Unit 2 assignments due on Thursday 11/7 at 2:45pm** 
 
 **Read for Thursday:**
 
 * [What is Spatial History?](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29&project_id)
-* [What is the Spatial Turn?](http://spatial.scholarslab.org/spatial-turn/what-is-the-spatial-turn/)
-* [Visualizing the Railway Space in Fontane’s Effi Briest](http://transit.berkeley.edu/2016/youngman-et-al/)
-* [The Geographic Imagination of Civil War-Era American Fiction](http://muse.jhu.edu/article/527788)
 
-### 11/7/19 // Thursday // more maps 
+## Unit 3 Space
 
-* Discuss: readings
+### 11/7/19 // Thursday // maps are cool!!!!
+* unit 2 wrap up 
+* unit 3 introductions
 
 **Unit 3 Methodology Review due Tuesday, 11/12**
 
@@ -240,7 +219,6 @@ _Methodology review + Data_
 * Methodology review discussion
 * Lab: collaborative research
 * Unit 3 prep + planning 
-* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dci102-f18-day16.html)
 
 **Read for Thursday:**
 * [Anatomy of a web map](http://maptime.io/anatomy-of-a-web-map/)
@@ -251,7 +229,7 @@ _Methodology review + Data_
 
 * Lecture: open data
 * Activity 2: Data Assessment
-* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dci102-f18-day17.html)
+* Slides
 
 
 ** Read for Tuesday:**
