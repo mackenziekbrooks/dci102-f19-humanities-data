@@ -4,7 +4,7 @@
 This activity comes in two pieces. First, you will do research on the data set options for this unit and answer specific questions in a Boxnote. You can do this research as a group if you like. Second, you will write a blog post about your findings and post it to your website. Even if you work in a group on your research, the blog post should be your own. This will be due by class on Thursday. Submit the URL in Canvas. 
 
 ### Part 1: Data set research! 
-* First, read the [Unit 2 Data](Unit2/unit2_data.md) page. 
+* First, read the [Unit 2 Data](unit2_data.md) page. 
 * Second, take a look at the data in the Box folder `unit-2-network`. There are four difference data sets that you can choose from for Unit 2. Just open up each file and take a look around. You don't have to understand the structure, just try to get a sense of the content. Some folders have related documents as well. 
 * Third, make a copy of the "Data Scavenger Hunt" Boxnote in `unit-2-network`. Add your name or team name to the file. 
 * Fourth, answer the questions in the Boxnote to the best of your ability. You will be provided with links and hints. However! Some of the questions may require you to leave your computer! Or you may want to conduct a little external research. 

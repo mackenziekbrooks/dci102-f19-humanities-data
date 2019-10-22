@@ -161,6 +161,7 @@ Prof. Brooks is away at conference. To make up for our missed class time, please
 ### 10/22/19 // Tuesday // network methods
 * [Unit 2 method review due today](https://mackenziekbrooks.github.io/dci102-f19-humanities-data/Unit2/unit2_assignments/#methodology-review)
 * discuss: readings + method reviews
+* [slides](https://mackenziekbrooks.github.io/dci102-f19-humanities-data/slides/dci102-f19-day12.html)
 
 **Read for Thursday:**
 
