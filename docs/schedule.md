@@ -173,6 +173,7 @@ Prof. Brooks is away at conference. To make up for our missed class time, please
 ### 10/24/19 // Thursday // data structures 
 * data structures + dream of linked data
 * data set review + assessment 
+* [slides](https://mackenziekbrooks.github.io/dci102-f19-humanities-data/slides/dci102-f19-day13.html)
 
 **Due Tuesday: research question** 
 
