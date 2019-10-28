@@ -49,8 +49,8 @@ Using Open Refine, explore your data set. In a text file to be turned in with Un
 
 ## Activity 5: Data Generation
 
-* Fill this out [data generation survey](https://goo.gl/forms/UeQlebJxdqGu7baP2) to create a simple data set for testing network analysis tools. 
-* Data is available as .csv on Box. 
+* Fill this out [data generation survey](https://forms.gle/keb9x2rTtPK3UgLy8) to create a simple data set for testing network analysis tools. 
+* Data will be available as .csv on Box. 
 * Using Open Refine, create an edge list. 
   * Remove the timestamp column.
   * From the first column after the names, select ```Transpose > Transpose cells across columns into rows```.
@@ -69,6 +69,7 @@ In small groups by operating system, download or open the following network visu
 4. UCInet (Windows)
 
 Answer the following: 
+
 1. What do you think of the results? What's surprising? What's not?
 2. How about the tool itself? What options do you have?
 3. What can you do with the results?
