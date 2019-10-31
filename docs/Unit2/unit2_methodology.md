@@ -1,4 +1,5 @@
-  # Unit 2 / Network / Methodology
+# Unit 2 / Network / Methodology
+
 Networks are everywhere. Once you start, it's hard to stop seeing them. The internet is a network, Facebook is a network, [Kevin Bacon is the central node](https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon) in the Hollywood network. Studying the connections between people and things is a major activity in the humanities, so "network analysis" feels like a natural method for working with humanities data. 
 
 As we saw in Unit 1, we certainly *can* take statistical and mathematical methods and apply them to humanities data. As we learn about network analysis in this unit, we will consider whether or not we *should* use it with our data.

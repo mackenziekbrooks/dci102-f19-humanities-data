@@ -194,7 +194,9 @@ Prof. Brooks is away at conference. To make up for our missed class time, please
 ### 10/31/19 // Thursday
 * readings discussion
 * project work
+* [slides](ttps://mackenziekbrooks.github.io/dci102-f19-humanities-data/slides/dci102-f19-day15.html)
 
+**prepare 1 visualization and documentation for peer review**
 
 ### 11/5/19 // Tuesday
 * Don't forget to vote! 
