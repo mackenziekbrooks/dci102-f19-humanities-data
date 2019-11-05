@@ -194,7 +194,7 @@ Prof. Brooks is away at conference. To make up for our missed class time, please
 ### 10/31/19 // Thursday
 * readings discussion
 * project work
-* [slides](ttps://mackenziekbrooks.github.io/dci102-f19-humanities-data/slides/dci102-f19-day15.html)
+* [slides](https://mackenziekbrooks.github.io/dci102-f19-humanities-data/slides/dci102-f19-day15.html)
 
 **prepare 1 visualization and documentation for peer review**
 
@@ -204,9 +204,7 @@ Prof. Brooks is away at conference. To make up for our missed class time, please
 
 **All Unit 2 assignments due on Thursday 11/7 at 2:45pm** 
 
-**Read for Thursday:**
 
-* [What is Spatial History?](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29&project_id)
 
 ## Unit 3 Space
 
@@ -215,6 +213,11 @@ Prof. Brooks is away at conference. To make up for our missed class time, please
 * unit 3 introductions
 
 **Unit 3 Methodology Review due Tuesday, 11/12**
+
+**Read for Tuesday:**
+
+* [What is Spatial History?](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29&project_id)
+* [The Contested Nature of Historical GIS](http://ezproxy.wlu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=iih&AN=91840444&site=ehost-live)
 
 ### 11/12/19 // Tuesday // methodology review
 
@@ -226,6 +229,7 @@ _Methodology review + Data_
 
 **Read for Thursday:**
 * [Anatomy of a web map](http://maptime.io/anatomy-of-a-web-map/)
+* [So you want to make a map](https://schoolofdata.org/2013/11/09/web-mapping)
 
 ### 11/14/19 // Thursday // data
 

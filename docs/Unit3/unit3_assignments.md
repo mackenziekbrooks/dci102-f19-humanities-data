@@ -29,10 +29,9 @@ Specs:
 
 Projects:
 
-* [Railroads and the Making of Modern America](http://railroads.unl.edu/)
 * [Civil War DC](http://civilwardc.org/)
 * [Mapping the Second Klu Klux Klan](https://labs.library.vcu.edu/klan/)
-* [Negro Travelers’ Green Book](http://library.sc.edu/digital/collections/greenbookmap.html)
+* [Navigating the Green Book](http://publicdomain.nypl.org/greenbook-map/)
 * [Black Liberation 1969 Archive](http://blacklib1969.swarthmore.edu/neatline/show/sit-in-map)
 * [Textual Geographies](http://txtgeo.net/)
 * [Visualizing Emancipation](http://dsl.richmond.edu/emancipation/)

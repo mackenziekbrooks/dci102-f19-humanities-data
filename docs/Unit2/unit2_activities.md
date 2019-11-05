@@ -90,20 +90,19 @@ Answer the following:
 
 ## Activity 8: Peer Review
 
-### Visualization
+### Part 1: Visualization
 
-* Individually, spend some time on [HelpMeViz](http://helpmeviz.com) and [Part 4 of Data + Design](https://infoactive.co/data-design/part04.html). Make a list of the common problems and solutions that both sites present. 
-* Share your findings with your group. What did you find in common? Any differences? Do you agree with all the recommendations? 
-* Pair up and review your classmate's visualization. 
+* Individually, spend some time on [HelpMeViz](https://policyviz.com/helpmeviz/) and [Chapter 14-15 of Data + Design](https://infoactive.co/data-design/part04.html). Make a list of the common problems and solutions that both sites present. 
+* Share your findings with your partner. What did you find in common? Any differences? Do you agree with all the recommendations? 
+* Pair up and review your classmate's network visualization. 
 * Share 1 positive + 1 needs improvement, based on the recommendations from the reading. 
 
 
-### Documentation
+### Part 2: Documentation
 
 * Switch partners and check out your classmate's documentation page. Follow their documentation to produce the same result.
 * Take notes on what worked and what didn't work. 
 * Share 1 positive aspect + 1 needs improvement aspect with your partner. 
-
-
+* While you're here, any recommendations for your partner's website? Is the info organized well? Can you find each project? Are visuals/fonts/colors used effectively? 
 
 
