@@ -92,7 +92,7 @@ Answer the following:
 
 ### Part 1: Visualization
 
-* Individually, spend some time on [HelpMeViz](https://policyviz.com/helpmeviz/) and [Chapter 14-15 of Data + Design](https://infoactive.co/data-design/part04.html). Make a list of the common problems and solutions that both sites present. 
+* Individually, spend some time on [HelpMeViz](https://policyviz.com/helpmeviz/) and [Chapter 14-15 of Data + Design](https://orm-atlas2-prod.s3.amazonaws.com/pdf/13a07b19e01a397d8855c0463d52f454.pdf). Make a list of the common problems and solutions that both sites present. 
 * Share your findings with your partner. What did you find in common? Any differences? Do you agree with all the recommendations? 
 * Pair up and review your classmate's network visualization. 
 * Share 1 positive + 1 needs improvement, based on the recommendations from the reading. 

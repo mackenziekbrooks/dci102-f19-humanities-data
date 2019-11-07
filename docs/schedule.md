@@ -201,6 +201,7 @@ Prof. Brooks is away at conference. To make up for our missed class time, please
 ### 11/5/19 // Tuesday
 * Don't forget to vote! 
 * peer review + project work
+* [slides](https://mackenziekbrooks.github.io/dci102-f19-humanities-data/slides/dci102-f19-day16.html)
 
 **All Unit 2 assignments due on Thursday 11/7 at 2:45pm** 
 
@@ -221,26 +222,22 @@ Prof. Brooks is away at conference. To make up for our missed class time, please
 
 ### 11/12/19 // Tuesday // methodology review
 
-_Methodology review + Data_
-
-* Methodology review discussion
+* Methodology review discussion + readings
 * Lab: collaborative research
-* Unit 3 prep + planning 
 
 **Read for Thursday:**
+
 * [Anatomy of a web map](http://maptime.io/anatomy-of-a-web-map/)
 * [So you want to make a map](https://schoolofdata.org/2013/11/09/web-mapping)
 
 ### 11/14/19 // Thursday // data
 
-_Methodology review + Data_
-
 * Lecture: open data
 * Activity 2: Data Assessment
 * Slides
 
-
 ** Read for Tuesday:**
+
 * [We Mapped It So You Don't Have To](http://crln.acrl.org/index.php/crlnews/article/view/16772/19314)
 
 ** Draft research question due Tuesday the 19th**
