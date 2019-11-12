@@ -212,6 +212,7 @@ Prof. Brooks is away at conference. To make up for our missed class time, please
 ### 11/7/19 // Thursday // maps are cool!!!!
 * unit 2 wrap up 
 * unit 3 introductions
+* [slides](https://mackenziekbrooks.github.io/dci102-f19-humanities-data/slides/dci102-f19-day17.html)
 
 **Unit 3 Methodology Review due Tuesday, 11/12**
 

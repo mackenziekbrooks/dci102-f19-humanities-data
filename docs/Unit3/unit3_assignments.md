@@ -93,9 +93,9 @@ For this unit, your visualization should feature some kind of map. You can use a
     * on time
     * published on your website.
 * 1 point for creating a map with at least one of the following:
-  * Historic map layer
-  * 10-20 pins or features
-  * Shapefiles of some kind
+    * Historic map layer
+    * 10-20 pins or features
+    * Shapefiles of some kind
 * 1 point for 300 words interpreting your results.
 * 1 point for indicating the tools/methods used to produce the results. What can the user do to change the appearance of the map and its data?
 * 1 point for commenting on problems/issues with your method, including the comments from your peer reviewer.
@@ -112,6 +112,7 @@ Check out [A Beginner's Guide to Writing Documentation](http://www.writethedocs.
 **Due Thursday 12/5/19 by 2:45pm**
 
 Specs:
+
 * 1 point for on time delivery
     * on your website
     * 150+ words
