@@ -225,6 +225,7 @@ Prof. Brooks is away at conference. To make up for our missed class time, please
 
 * Methodology review discussion + readings
 * Lab: collaborative research
+* [slides](https://mackenziekbrooks.github.io/dci102-f19-humanities-data/slides/dci102-f19-day18.html)
 
 **Read for Thursday:**
 
@@ -235,7 +236,7 @@ Prof. Brooks is away at conference. To make up for our missed class time, please
 
 * Lecture: open data
 * Activity 2: Data Assessment
-* Slides
+* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day19.html)
 
 ** Read for Tuesday:**
 
@@ -243,16 +244,15 @@ Prof. Brooks is away at conference. To make up for our missed class time, please
 
 ** Draft research question due Tuesday the 19th**
 
-### 11/19/19 // Tuesday // project consults
+### 11/19/19 // Tuesday // project time
 
 _Methodology review + Data_
 
 * Activity 3: Mapping tools sandbox
-* Data set/project approval and consults 
+* Data set/project approval and consults ?
 
 ### 11/21/19 // Thursday // project time
 
-* [_Slides_](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day18.html)
 
 **For Tuesday: Prepare for peer review by embedding your map onto your website and posting your project narrative.**
 
