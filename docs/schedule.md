@@ -236,7 +236,7 @@ Prof. Brooks is away at conference. To make up for our missed class time, please
 
 * Lecture: open data
 * Activity 2: Data Assessment
-* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day19.html)
+* [Slides](https://mackenziekbrooks.github.io/dci102-f19-humanities-data/slides/dci102-f19-day19.html)
 
 ** Read for Tuesday:**
 
@@ -249,10 +249,10 @@ Prof. Brooks is away at conference. To make up for our missed class time, please
 _Methodology review + Data_
 
 * Activity 3: Mapping tools sandbox
-* Data set/project approval and consults ?
+
 
 ### 11/21/19 // Thursday // project time
-
+* Data set/project approval and consults ?
 
 **For Tuesday: Prepare for peer review by embedding your map onto your website and posting your project narrative.**
 

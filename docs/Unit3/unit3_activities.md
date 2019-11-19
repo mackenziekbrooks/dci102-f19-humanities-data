@@ -54,15 +54,13 @@ Evaluate:
 
 ## Activity 3: Mapping tools
 
-In your group, review and test out one of the following mapping tools. Compile your findings in a Box note in our Unit 3 folder. You must test out 2 tools, but you are 
+First, take this [survey](https://forms.gle/bJmQxjnXWbD1CZR68) to produce sample data. It will be made available in Box in the Unit 3 folder. 
 
-* Carto
+In your group, review and test out one of the following mapping tools. Compile your findings in a Box note in our Unit 3 folder. 
+
 * Palladio
 * ArcGIS Online
-* QGIS 
-* Neatline
-* Kepler.gl 
-* Google Fusion Tables
+* Google My Maps
 * Tableau Public
 
 ***
@@ -73,7 +71,7 @@ In your group, review and test out one of the following mapping tools. Compile y
 * How do I add layers? 
 * How do I add shapes or pins? 
 * Can I add a historical map? How? 
-* Where is the basemap from? \(Google, OpenStreetMap, etc.\)
+* Where is the basemap from? \(Google, OpenStreetMap, etc.\) Can I change it? 
 * What type of mapping project would suit this tool? 
 * Can you find the documentation? Other tutorials? 
 * Using the sample data provided in Box, create a map of the hometowns. You may need to alter the data to fit the requirements of the mapping tool.  
